@@ -1,6 +1,6 @@
 def greet_initial() -> str:
     """Return the initial greeting message."""
-    return "Hi! I'm GPT. Let's get started. What's your name?"
+    return " 👋 Hi! I’m your friendly Talent Scout bot. Let’s get to know you better! 😊"
 
 def greet_user(name: str) -> str:
     """Return a personalized greeting for the user name."""

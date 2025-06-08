@@ -1,178 +1,261 @@
 import streamlit as st
-import json
 import uuid
+import json
+
 from utils.detailsValidation import (
-    validate_name,
-    validate_email,
-    validate_phone,
-    validate_dob,
-    validate_experience,
-    validate_department,
-    validate_programming_languages,
+    validate_name, validate_email, validate_phone,
+    validate_dob, validate_experience,
+    validate_department, validate_programming_languages,
     validate_frameworks,
 )
-
-# Add to the existing import block in ui.py
 from utils.UserDetailsGreetings import (
-    greet_initial,
-    greet_user,
-    acknowledge_email,
-    acknowledge_phone,
-    comment_on_experience,
+    greet_initial, greet_user, acknowledge_email,
+    acknowledge_phone, comment_on_experience,
     acknowledge_frameworks,
 )
-
 from services.candidateRepository import upsert_candidate
+from workflows.interviewFlow import run_interview
 
-# Initialize session state variables if not present
+# ——————————————————————————————
+# Session Setup
+# ——————————————————————————————
 if "session_id" not in st.session_state:
     st.session_state.session_id = uuid.uuid4().hex
-    # Save session_id into DB so we can upsert subsequent fields
-    upsert_candidate(st.session_state.session_id, "session_id", st.session_state.session_id)
+    upsert_candidate(
+        st.session_state.session_id,
+        "session_id",
+        st.session_state.session_id
+    )
 
 if "current_step" not in st.session_state:
     st.session_state.current_step = "name"
     st.session_state.candidate = {}
     st.session_state.messages = []
 
-def add_message(role, content):
-    st.session_state.messages.append({"role": role, "content": content})
+def add_message(role, text):
+    st.session_state.messages.append({"role": role, "content": text})
 
-# Display chat history
-for message in st.session_state.messages:
-    with st.chat_message(message["role"]):
-        st.markdown(message["content"])
+# ——————————————————————————————
+# Initial Greeting (only once)
+# ——————————————————————————————
+if not st.session_state.messages:
+    add_message("assistant", greet_initial())
+    add_message("assistant", "👋 Hey there! To get started, what’s your name?")
 
-# Conversational flow based on current_step
-if st.session_state.current_step == "name":
-    # On first visit, greet the user.
-    if not st.session_state.messages:
-        add_message("assistant", greet_initial())
-        st.experimental_rerun()
-    name_input = st.text_input("Enter your name:", key="name_input")
-    if st.button("Submit Name"):
-        if validate_name(name_input):
-            add_message("user", name_input)
-            st.session_state.candidate["name"] = name_input
-            upsert_candidate(st.session_state.session_id, "name", name_input)
-            add_message("assistant", greet_user(name_input))
-            st.session_state.current_step = "email"
-            st.experimental_rerun()
-        else:
-            st.error("Please enter a valid name (alphabetic characters only, at least 2 characters).")
+# ——————————————————————————————
+# Render Chat History
+# ——————————————————————————————
+for msg in st.session_state.messages:
+    with st.chat_message(msg["role"]):
+        st.markdown(msg["content"])
 
-elif st.session_state.current_step == "email":
-    email_input = st.text_input("Enter your email:", key="email_input")
-    if st.button("Submit Email"):
-        if validate_email(email_input):
-            add_message("user", email_input)
-            st.session_state.candidate["email"] = email_input
-            upsert_candidate(st.session_state.session_id, "email", email_input)
-            add_message("assistant", acknowledge_email(email_input))
-            st.session_state.current_step = "phone"
-            st.experimental_rerun()
-        else:
-            st.error("Please enter a valid email address.")
+step = st.session_state.current_step
+data = st.session_state.candidate
 
-elif st.session_state.current_step == "phone":
-    phone_input = st.text_input("Enter your phone number:", key="phone_input")
-    if st.button("Submit Phone"):
-        if validate_phone(phone_input):
-            add_message("user", phone_input)
-            st.session_state.candidate["phone"] = phone_input
-            upsert_candidate(st.session_state.session_id, "phone", phone_input)
-            add_message("assistant", acknowledge_phone())
-            st.session_state.current_step = "dob"
-            st.experimental_rerun()
-        else:
-            st.error("Please enter a valid phone number (digits only, 10-15 characters).")
-
-elif st.session_state.current_step == "dob":
-    dob_input = st.text_input("Enter your Date of Birth (YYYY-MM-DD):", key="dob_input")
-    if st.button("Submit DOB"):
-        if validate_dob(dob_input):
-            add_message("user", dob_input)
-            st.session_state.candidate["dob"] = dob_input
-            upsert_candidate(st.session_state.session_id, "dob", dob_input)
-            add_message("assistant", "Got it.")
-            st.session_state.current_step = "experience"
-            st.experimental_rerun()
-        else:
-            st.error("Please enter a valid DOB (format YYYY-MM-DD) and ensure you are over 18.")
-
-elif st.session_state.current_step == "experience":
-    exp_input = st.number_input("Enter years of experience:", min_value=0, step=1, key="exp_input")
-    if st.button("Submit Experience"):
-        if validate_experience(exp_input):
-            add_message("user", str(exp_input))
-            st.session_state.candidate["years_experience"] = exp_input
-            upsert_candidate(st.session_state.session_id, "years_experience", exp_input)
-            add_message("assistant", comment_on_experience(exp_input))
-            st.session_state.current_step = "department"
-            st.experimental_rerun()
-        else:
-            st.error("Please enter a valid number for years of experience (0 or greater).")
-
-elif st.session_state.current_step == "department":
-    dept_input = st.selectbox(
+# ——————————————————————————————
+# Widget Steps (department, languages, frameworks)
+# These appear BEFORE the chat_input below
+# ——————————————————————————————
+if step == "department":
+    dept = st.selectbox(
         "Select the role you are applying for:",
-        options=["Full Stack", "Frontend", "Backend", "UI/UX", "Data Scientist"],
-        key="dept_input"
+        ["Full Stack", "Frontend", "Backend", "UI/UX", "Data Scientist"],
+        key="dept_widget"
     )
-    if st.button("Submit Department"):
-        if dept_input and validate_department(dept_input):
-            add_message("user", dept_input)
-            st.session_state.candidate["department"] = dept_input
-            upsert_candidate(st.session_state.session_id, "department", dept_input)
-            add_message("assistant", f"Great! You are applying for the {dept_input} role.")
-            st.session_state.current_step = "languages"
-            st.experimental_rerun()
-        else:
-            st.error("Please select a valid department.")
-
-elif st.session_state.current_step == "languages":
-    langs_input = st.multiselect(
-        "Select your Programming Languages:",
-        options=["Python", "JavaScript", "Java", "C++", "Go", "Ruby"],
-        key="langs_input"
-    )
-    if st.button("Submit Languages"):
-        if langs_input and validate_programming_languages(langs_input):
-            add_message("user", ", ".join(langs_input))
-            st.session_state.candidate["programming_languages"] = langs_input
-            upsert_candidate(st.session_state.session_id, "programming_languages", langs_input)
-            add_message("assistant", f"Great! You have experience in {', '.join(langs_input)}.")
-            st.session_state.current_step = "frameworks"
-            st.experimental_rerun()
-        else:
-            st.error("Please select at least one programming language.")
-
-elif st.session_state.current_step == "frameworks":
-    frameworks_input = st.multiselect(
-        "Select the frameworks you know (optional):",
-        options=["Django", "Flask", "React", "Angular", "Vue", "Spring"],
-        key="frameworks_input"
-    )
-    if st.button("Submit Frameworks"):
-        if validate_frameworks(frameworks_input):
-            frameworks_val = ", ".join(frameworks_input) if frameworks_input else "None"
-            add_message("user", frameworks_val)
-            st.session_state.candidate["frameworks"] = frameworks_input
-            upsert_candidate(st.session_state.session_id, "frameworks", frameworks_input)
-            add_message("assistant", acknowledge_frameworks(frameworks_input))
-            st.session_state.current_step = "final"
-            st.experimental_rerun()
-        else:
-            st.error("Please enter valid frameworks (non-empty strings).")
-
-elif st.session_state.current_step == "final":
-    add_message("assistant", f"Thanks {st.session_state.candidate.get('name', 'User')}! Your information is noted. I’ll now prepare your technical questions.")
-    st.write("Candidate Data:")
-    st.json(st.session_state.candidate)
-    if st.button("Start Over"):
-        # Reset session state for a fresh start.
-        for key in ["candidate", "current_step", "messages", "name_input", "email_input", "phone_input",
-                    "dob_input", "exp_input", "dept_input", "langs_input", "frameworks_input", "session_id"]:
-            if key in st.session_state:
-                del st.session_state[key]
+    if st.button("OK", key="dept_ok"):
+        add_message("user", dept)
+        data["department"] = dept
+        upsert_candidate(st.session_state.session_id, "department", dept)
+        add_message("assistant", f"Great! You’re applying for **{dept}**.")
+        add_message("assistant", "Next up: select your programming languages.")
+        st.session_state.current_step = "languages"
         st.experimental_rerun()
+
+elif step == "languages":
+    langs = st.multiselect(
+        "Select your Programming Languages:",
+        ["Python", "JavaScript", "Java", "C++", "Go", "Ruby"],
+        key="langs_widget"
+    )
+    if st.button("OK", key="langs_ok"):
+        add_message("user", ", ".join(langs))
+        data["programming_languages"] = langs
+        upsert_candidate(
+            st.session_state.session_id,
+            "programming_languages",
+            langs
+        )
+        add_message("assistant", f"Awesome—{', '.join(langs)}.")
+        add_message("assistant", "Now pick any frameworks you know (optional).")
+        st.session_state.current_step = "frameworks"
+        st.experimental_rerun()
+
+elif step == "frameworks":
+    frameworks = st.multiselect(
+        "Select frameworks you know (optional):",
+        ["Django", "Flask", "React", "Angular", "Vue", "Spring"],
+        key="fw_widget"
+    )
+    if st.button("OK", key="fw_ok"):
+        add_message("user", ", ".join(frameworks) or "None")
+        data["frameworks"] = frameworks
+        upsert_candidate(
+            st.session_state.session_id,
+            "frameworks",
+            frameworks
+        )
+        add_message("assistant", acknowledge_frameworks(frameworks))
+        add_message("assistant", "Great—I'm all set to generate your technical questions!")
+        st.session_state.current_step = "final"
+        st.experimental_rerun()
+
+# ——————————————————————————————
+# Chat-Style Free-Form Steps
+# Only render chat_input if not in a widget step
+# ——————————————————————————————
+elif step not in ["department", "languages", "frameworks"]:
+    user_input = st.chat_input("Type your response here…", key="chat_input")
+
+    if user_input:
+        add_message("user", user_input)
+
+        if step == "name":
+            if validate_name(user_input):
+                data["name"] = user_input
+                upsert_candidate(st.session_state.session_id, "name", user_input)
+                add_message("assistant", greet_user(user_input))
+                add_message("assistant", "Thanks! What’s your email address?")
+                # st.session_state.current_step = "email"
+                st.session_state.current_step = "final"  # Skip to final step for demo
+            else:
+                add_message("assistant", "❗️ Name must be alphabetic and ≥2 chars.")
+
+        elif step == "email":
+            if validate_email(user_input):
+                data["email"] = user_input
+                upsert_candidate(st.session_state.session_id, "email", user_input)
+                add_message("assistant", acknowledge_email(user_input))
+                add_message("assistant", "Perfect. May I have your phone number next?")
+                st.session_state.current_step = "phone"
+            else:
+                add_message("assistant", "❗️ Please enter a valid email.")
+
+        elif step == "phone":
+            if validate_phone(user_input):
+                data["phone"] = user_input
+                upsert_candidate(st.session_state.session_id, "phone", user_input)
+                add_message("assistant", acknowledge_phone())
+                add_message("assistant", "Thanks! Now enter your date of birth (YYYY-MM-DD).")
+                st.session_state.current_step = "dob"
+            else:
+                add_message("assistant", "❗️ Phone must be 10–15 digits.")
+
+        elif step == "dob":
+            if validate_dob(user_input):
+                data["dob"] = user_input
+                upsert_candidate(st.session_state.session_id, "dob", user_input)
+                add_message("assistant", "Got it!")
+                add_message("assistant", "How many years of experience do you have?")
+                st.session_state.current_step = "experience"
+            else:
+                add_message("assistant", "❗️ DOB must be YYYY-MM-DD and you must be over 18.")
+
+        elif step == "experience":
+            try:
+                exp = float(user_input)
+                if validate_experience(exp):
+                    data["years_experience"] = exp
+                    upsert_candidate(
+                        st.session_state.session_id,
+                        "years_experience",
+                        exp
+                    )
+                    add_message("assistant", comment_on_experience(exp))
+                    add_message("assistant", "Which department are you applying for? (e.g., Full Stack)")
+                    st.session_state.current_step = "department"
+                else:
+                    raise ValueError
+            except:
+                add_message("assistant", "❗️ Enter a valid number ≥0 for years of experience.")
+
+        st.experimental_rerun()
+
+# ——————————————————————————————
+# Final Step & “Start Interview”
+# ——————————————————————————————
+if step == "final":
+    add_message("assistant",
+        f"Thanks {data['name']}! Getting your technical questions ready…")
+    st.write("### Candidate Summary")
+    st.json(data)
+
+    if st.button("Start Interview"):
+        subjects = ["Full Stack", "Data Science"]  # or derive from data["department"]
+        results = run_interview(subjects, {})
+        st.session_state.interview_results = results
+        st.session_state.interview_subject_idx = 0
+        st.session_state.interview_question_idx = 0
+
+        st.session_state.current_step = "interview"
+        st.experimental_rerun()
+
+# ——————————————————————————————
+# Interview Placeholder
+# ——————————————————————————————
+elif step == "interview":
+    subjects = list(st.session_state.interview_results.keys())
+    s_idx = st.session_state.interview_subject_idx
+    q_idx = st.session_state.interview_question_idx
+
+    # Finished all subjects?
+    if s_idx >= len(subjects):
+        add_message("assistant", "🎉 Interview complete! Here’s your summary:")
+        add_message("assistant", json.dumps(st.session_state.interview_results, indent=2))
+        st.session_state.current_step = "done"
+        st.experimental_rerun()
+
+    subject = subjects[s_idx]
+    qa_list = st.session_state.interview_results[subject]["questions"]
+
+    # Check if current subject's questions are done.
+    if q_idx >= len(qa_list):
+        # Move on to next subject:
+        st.session_state.interview_subject_idx += 1
+        st.session_state.interview_question_idx = 0
+        st.experimental_rerun()
+
+    ideal = qa_list[q_idx]["ideal_answer"]
+    question = qa_list[q_idx]["question"]
+
+    # 1) Persist the question
+    add_message("assistant", f"**[{subject}] Q{q_idx+1}:** {question}")
+
+    # 2) Show full chat
+    for m in st.session_state.messages:
+        with st.chat_message(m["role"]):
+            st.markdown(m["content"])
+
+    # 3) Capture answer
+    answer = st.chat_input("Your answer…", key=f"ans_{subject}_{q_idx}")
+    if answer:
+        add_message("user", answer)
+        st.session_state.interview_results[subject]["answers"].append(answer)
+
+        # 4) Evaluate & persist
+        from services.interviewEngine import evaluate_answer
+        fb = evaluate_answer(question, ideal, answer)
+        add_message("assistant", fb)
+        st.session_state.interview_results[subject]["feedback"].append(fb)
+
+        # 5) Move on
+        st.session_state.interview_question_idx += 1
+        st.experimental_rerun()
+
+
+# ——————————————————————————————
+# Global “Start Over”
+# ——————————————————————————————
+if st.button("Start Over"):
+    for k in list(st.session_state.keys()):
+        del st.session_state[k]
+    st.experimental_rerun()
