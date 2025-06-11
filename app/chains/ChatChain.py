@@ -9,10 +9,7 @@ from utils.trimmer import trimmer
 prompt = make_prompt_template()
 
 trimmed_chain = (
-    RunnablePassthrough.assign(
-        messages=itemgetter("messages") | trimmer
-    )
-    | prompt
+     prompt
     | llm
 )
 
