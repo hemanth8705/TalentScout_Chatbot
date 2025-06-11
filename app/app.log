@@ -1,0 +1,1839 @@
+2025-06-11 08:04:32,954 [INFO] Custom CSS injected.
+2025-06-11 08:04:32,956 [INFO] Session state initialized. First question: Hey there! Let’s get you set up. What’s your Full Name?
+2025-06-11 08:04:32,958 [INFO] Rendered chat history with 1 messages.
+2025-06-11 08:04:36,851 [INFO] Custom CSS injected.
+2025-06-11 08:04:36,851 [INFO] Custom CSS injected.
+2025-06-11 08:04:36,864 [INFO] Rendered chat history with 1 messages.
+2025-06-11 08:04:36,864 [INFO] Rendered chat history with 1 messages.
+2025-06-11 08:04:36,880 [INFO] User input received: hamenth
+2025-06-11 08:04:36,880 [INFO] User input received: hamenth
+2025-06-11 08:04:36,887 [INFO] Validating field: Full Name
+2025-06-11 08:04:36,887 [INFO] Validating field: Full Name
+2025-06-11 08:04:36,903 [INFO] Validated field 'Full Name'. Updated profile.
+2025-06-11 08:04:36,903 [INFO] Validated field 'Full Name'. Updated profile.
+2025-06-11 08:04:36,916 [INFO] Prompting next field: Email Address
+2025-06-11 08:04:36,916 [INFO] Prompting next field: Email Address
+2025-06-11 08:04:53,499 [INFO] Custom CSS injected.
+2025-06-11 08:04:53,499 [INFO] Custom CSS injected.
+2025-06-11 08:04:53,499 [INFO] Custom CSS injected.
+2025-06-11 08:04:53,517 [INFO] Rendered chat history with 3 messages.
+2025-06-11 08:04:53,517 [INFO] Rendered chat history with 3 messages.
+2025-06-11 08:04:53,517 [INFO] Rendered chat history with 3 messages.
+2025-06-11 08:04:53,537 [INFO] User input received: hemanth@gmail.com
+2025-06-11 08:04:53,537 [INFO] User input received: hemanth@gmail.com
+2025-06-11 08:04:53,537 [INFO] User input received: hemanth@gmail.com
+2025-06-11 08:04:53,547 [INFO] Validating field: Email Address
+2025-06-11 08:04:53,547 [INFO] Validating field: Email Address
+2025-06-11 08:04:53,547 [INFO] Validating field: Email Address
+2025-06-11 08:04:53,559 [INFO] Validated field 'Email Address'. Updated profile.
+2025-06-11 08:04:53,559 [INFO] Validated field 'Email Address'. Updated profile.
+2025-06-11 08:04:53,559 [INFO] Validated field 'Email Address'. Updated profile.
+2025-06-11 08:04:53,572 [INFO] Prompting next field: Phone Number
+2025-06-11 08:04:53,572 [INFO] Prompting next field: Phone Number
+2025-06-11 08:04:53,572 [INFO] Prompting next field: Phone Number
+2025-06-11 08:04:57,381 [INFO] Custom CSS injected.
+2025-06-11 08:04:57,381 [INFO] Custom CSS injected.
+2025-06-11 08:04:57,381 [INFO] Custom CSS injected.
+2025-06-11 08:04:57,381 [INFO] Custom CSS injected.
+2025-06-11 08:04:57,408 [INFO] Rendered chat history with 5 messages.
+2025-06-11 08:04:57,408 [INFO] Rendered chat history with 5 messages.
+2025-06-11 08:04:57,408 [INFO] Rendered chat history with 5 messages.
+2025-06-11 08:04:57,408 [INFO] Rendered chat history with 5 messages.
+2025-06-11 08:04:57,435 [INFO] User input received: 786321456
+2025-06-11 08:04:57,435 [INFO] User input received: 786321456
+2025-06-11 08:04:57,435 [INFO] User input received: 786321456
+2025-06-11 08:04:57,435 [INFO] User input received: 786321456
+2025-06-11 08:04:57,450 [INFO] Validating field: Phone Number
+2025-06-11 08:04:57,450 [INFO] Validating field: Phone Number
+2025-06-11 08:04:57,450 [INFO] Validating field: Phone Number
+2025-06-11 08:04:57,450 [INFO] Validating field: Phone Number
+2025-06-11 08:04:57,459 [WARNING] Validation failed for field 'Phone Number' with error: Invalid Phone Number. Please enter a valid phone number containing only digits and between 10 and 15 characters.
+2025-06-11 08:04:57,459 [WARNING] Validation failed for field 'Phone Number' with error: Invalid Phone Number. Please enter a valid phone number containing only digits and between 10 and 15 characters.
+2025-06-11 08:04:57,459 [WARNING] Validation failed for field 'Phone Number' with error: Invalid Phone Number. Please enter a valid phone number containing only digits and between 10 and 15 characters.
+2025-06-11 08:04:57,459 [WARNING] Validation failed for field 'Phone Number' with error: Invalid Phone Number. Please enter a valid phone number containing only digits and between 10 and 15 characters.
+2025-06-11 08:05:02,789 [INFO] Custom CSS injected.
+2025-06-11 08:05:02,789 [INFO] Custom CSS injected.
+2025-06-11 08:05:02,789 [INFO] Custom CSS injected.
+2025-06-11 08:05:02,789 [INFO] Custom CSS injected.
+2025-06-11 08:05:02,789 [INFO] Custom CSS injected.
+2025-06-11 08:05:02,823 [INFO] Rendered chat history with 6 messages.
+2025-06-11 08:05:02,823 [INFO] Rendered chat history with 6 messages.
+2025-06-11 08:05:02,823 [INFO] Rendered chat history with 6 messages.
+2025-06-11 08:05:02,823 [INFO] Rendered chat history with 6 messages.
+2025-06-11 08:05:02,823 [INFO] Rendered chat history with 6 messages.
+2025-06-11 08:05:02,851 [INFO] User input received: 1236987458
+2025-06-11 08:05:02,851 [INFO] User input received: 1236987458
+2025-06-11 08:05:02,851 [INFO] User input received: 1236987458
+2025-06-11 08:05:02,851 [INFO] User input received: 1236987458
+2025-06-11 08:05:02,851 [INFO] User input received: 1236987458
+2025-06-11 08:05:02,867 [INFO] Validating field: Phone Number
+2025-06-11 08:05:02,867 [INFO] Validating field: Phone Number
+2025-06-11 08:05:02,867 [INFO] Validating field: Phone Number
+2025-06-11 08:05:02,867 [INFO] Validating field: Phone Number
+2025-06-11 08:05:02,867 [INFO] Validating field: Phone Number
+2025-06-11 08:05:02,874 [INFO] Validated field 'Phone Number'. Updated profile.
+2025-06-11 08:05:02,874 [INFO] Validated field 'Phone Number'. Updated profile.
+2025-06-11 08:05:02,874 [INFO] Validated field 'Phone Number'. Updated profile.
+2025-06-11 08:05:02,874 [INFO] Validated field 'Phone Number'. Updated profile.
+2025-06-11 08:05:02,874 [INFO] Validated field 'Phone Number'. Updated profile.
+2025-06-11 08:05:02,886 [INFO] Prompting next field: Years of Experience
+2025-06-11 08:05:02,886 [INFO] Prompting next field: Years of Experience
+2025-06-11 08:05:02,886 [INFO] Prompting next field: Years of Experience
+2025-06-11 08:05:02,886 [INFO] Prompting next field: Years of Experience
+2025-06-11 08:05:02,886 [INFO] Prompting next field: Years of Experience
+2025-06-11 08:05:04,711 [INFO] Custom CSS injected.
+2025-06-11 08:05:04,711 [INFO] Custom CSS injected.
+2025-06-11 08:05:04,711 [INFO] Custom CSS injected.
+2025-06-11 08:05:04,711 [INFO] Custom CSS injected.
+2025-06-11 08:05:04,711 [INFO] Custom CSS injected.
+2025-06-11 08:05:04,711 [INFO] Custom CSS injected.
+2025-06-11 08:05:04,753 [INFO] Rendered chat history with 8 messages.
+2025-06-11 08:05:04,753 [INFO] Rendered chat history with 8 messages.
+2025-06-11 08:05:04,753 [INFO] Rendered chat history with 8 messages.
+2025-06-11 08:05:04,753 [INFO] Rendered chat history with 8 messages.
+2025-06-11 08:05:04,753 [INFO] Rendered chat history with 8 messages.
+2025-06-11 08:05:04,753 [INFO] Rendered chat history with 8 messages.
+2025-06-11 08:05:04,784 [INFO] User input received: 1
+2025-06-11 08:05:04,784 [INFO] User input received: 1
+2025-06-11 08:05:04,784 [INFO] User input received: 1
+2025-06-11 08:05:04,784 [INFO] User input received: 1
+2025-06-11 08:05:04,784 [INFO] User input received: 1
+2025-06-11 08:05:04,784 [INFO] User input received: 1
+2025-06-11 08:05:04,794 [INFO] Validating field: Years of Experience
+2025-06-11 08:05:04,794 [INFO] Validating field: Years of Experience
+2025-06-11 08:05:04,794 [INFO] Validating field: Years of Experience
+2025-06-11 08:05:04,794 [INFO] Validating field: Years of Experience
+2025-06-11 08:05:04,794 [INFO] Validating field: Years of Experience
+2025-06-11 08:05:04,794 [INFO] Validating field: Years of Experience
+2025-06-11 08:05:04,809 [INFO] Validated field 'Years of Experience'. Updated profile.
+2025-06-11 08:05:04,809 [INFO] Validated field 'Years of Experience'. Updated profile.
+2025-06-11 08:05:04,809 [INFO] Validated field 'Years of Experience'. Updated profile.
+2025-06-11 08:05:04,809 [INFO] Validated field 'Years of Experience'. Updated profile.
+2025-06-11 08:05:04,809 [INFO] Validated field 'Years of Experience'. Updated profile.
+2025-06-11 08:05:04,809 [INFO] Validated field 'Years of Experience'. Updated profile.
+2025-06-11 08:05:04,822 [INFO] Prompting next field: Desired Position(s)
+2025-06-11 08:05:04,822 [INFO] Prompting next field: Desired Position(s)
+2025-06-11 08:05:04,822 [INFO] Prompting next field: Desired Position(s)
+2025-06-11 08:05:04,822 [INFO] Prompting next field: Desired Position(s)
+2025-06-11 08:05:04,822 [INFO] Prompting next field: Desired Position(s)
+2025-06-11 08:05:04,822 [INFO] Prompting next field: Desired Position(s)
+2025-06-11 08:05:08,766 [INFO] Custom CSS injected.
+2025-06-11 08:05:08,766 [INFO] Custom CSS injected.
+2025-06-11 08:05:08,766 [INFO] Custom CSS injected.
+2025-06-11 08:05:08,766 [INFO] Custom CSS injected.
+2025-06-11 08:05:08,766 [INFO] Custom CSS injected.
+2025-06-11 08:05:08,766 [INFO] Custom CSS injected.
+2025-06-11 08:05:08,766 [INFO] Custom CSS injected.
+2025-06-11 08:05:08,813 [INFO] Rendered chat history with 10 messages.
+2025-06-11 08:05:08,813 [INFO] Rendered chat history with 10 messages.
+2025-06-11 08:05:08,813 [INFO] Rendered chat history with 10 messages.
+2025-06-11 08:05:08,813 [INFO] Rendered chat history with 10 messages.
+2025-06-11 08:05:08,813 [INFO] Rendered chat history with 10 messages.
+2025-06-11 08:05:08,813 [INFO] Rendered chat history with 10 messages.
+2025-06-11 08:05:08,813 [INFO] Rendered chat history with 10 messages.
+2025-06-11 08:05:08,849 [INFO] User input received: java devveloper
+2025-06-11 08:05:08,849 [INFO] User input received: java devveloper
+2025-06-11 08:05:08,849 [INFO] User input received: java devveloper
+2025-06-11 08:05:08,849 [INFO] User input received: java devveloper
+2025-06-11 08:05:08,849 [INFO] User input received: java devveloper
+2025-06-11 08:05:08,849 [INFO] User input received: java devveloper
+2025-06-11 08:05:08,849 [INFO] User input received: java devveloper
+2025-06-11 08:05:08,872 [INFO] Validating field: Desired Position(s)
+2025-06-11 08:05:08,872 [INFO] Validating field: Desired Position(s)
+2025-06-11 08:05:08,872 [INFO] Validating field: Desired Position(s)
+2025-06-11 08:05:08,872 [INFO] Validating field: Desired Position(s)
+2025-06-11 08:05:08,872 [INFO] Validating field: Desired Position(s)
+2025-06-11 08:05:08,872 [INFO] Validating field: Desired Position(s)
+2025-06-11 08:05:08,872 [INFO] Validating field: Desired Position(s)
+2025-06-11 08:05:08,884 [INFO] Validated field 'Desired Position(s)'. Updated profile.
+2025-06-11 08:05:08,884 [INFO] Validated field 'Desired Position(s)'. Updated profile.
+2025-06-11 08:05:08,884 [INFO] Validated field 'Desired Position(s)'. Updated profile.
+2025-06-11 08:05:08,884 [INFO] Validated field 'Desired Position(s)'. Updated profile.
+2025-06-11 08:05:08,884 [INFO] Validated field 'Desired Position(s)'. Updated profile.
+2025-06-11 08:05:08,884 [INFO] Validated field 'Desired Position(s)'. Updated profile.
+2025-06-11 08:05:08,884 [INFO] Validated field 'Desired Position(s)'. Updated profile.
+2025-06-11 08:05:08,901 [INFO] Prompting next field: Current Location
+2025-06-11 08:05:08,901 [INFO] Prompting next field: Current Location
+2025-06-11 08:05:08,901 [INFO] Prompting next field: Current Location
+2025-06-11 08:05:08,901 [INFO] Prompting next field: Current Location
+2025-06-11 08:05:08,901 [INFO] Prompting next field: Current Location
+2025-06-11 08:05:08,901 [INFO] Prompting next field: Current Location
+2025-06-11 08:05:08,901 [INFO] Prompting next field: Current Location
+2025-06-11 08:05:12,923 [INFO] Custom CSS injected.
+2025-06-11 08:05:12,923 [INFO] Custom CSS injected.
+2025-06-11 08:05:12,923 [INFO] Custom CSS injected.
+2025-06-11 08:05:12,923 [INFO] Custom CSS injected.
+2025-06-11 08:05:12,923 [INFO] Custom CSS injected.
+2025-06-11 08:05:12,923 [INFO] Custom CSS injected.
+2025-06-11 08:05:12,923 [INFO] Custom CSS injected.
+2025-06-11 08:05:12,923 [INFO] Custom CSS injected.
+2025-06-11 08:05:12,996 [INFO] Rendered chat history with 12 messages.
+2025-06-11 08:05:12,996 [INFO] Rendered chat history with 12 messages.
+2025-06-11 08:05:12,996 [INFO] Rendered chat history with 12 messages.
+2025-06-11 08:05:12,996 [INFO] Rendered chat history with 12 messages.
+2025-06-11 08:05:12,996 [INFO] Rendered chat history with 12 messages.
+2025-06-11 08:05:12,996 [INFO] Rendered chat history with 12 messages.
+2025-06-11 08:05:12,996 [INFO] Rendered chat history with 12 messages.
+2025-06-11 08:05:12,996 [INFO] Rendered chat history with 12 messages.
+2025-06-11 08:05:13,027 [INFO] User input received: vijayawada
+2025-06-11 08:05:13,027 [INFO] User input received: vijayawada
+2025-06-11 08:05:13,027 [INFO] User input received: vijayawada
+2025-06-11 08:05:13,027 [INFO] User input received: vijayawada
+2025-06-11 08:05:13,027 [INFO] User input received: vijayawada
+2025-06-11 08:05:13,027 [INFO] User input received: vijayawada
+2025-06-11 08:05:13,027 [INFO] User input received: vijayawada
+2025-06-11 08:05:13,027 [INFO] User input received: vijayawada
+2025-06-11 08:05:13,048 [INFO] Validating field: Current Location
+2025-06-11 08:05:13,048 [INFO] Validating field: Current Location
+2025-06-11 08:05:13,048 [INFO] Validating field: Current Location
+2025-06-11 08:05:13,048 [INFO] Validating field: Current Location
+2025-06-11 08:05:13,048 [INFO] Validating field: Current Location
+2025-06-11 08:05:13,048 [INFO] Validating field: Current Location
+2025-06-11 08:05:13,048 [INFO] Validating field: Current Location
+2025-06-11 08:05:13,048 [INFO] Validating field: Current Location
+2025-06-11 08:05:13,064 [INFO] Validated field 'Current Location'. Updated profile.
+2025-06-11 08:05:13,064 [INFO] Validated field 'Current Location'. Updated profile.
+2025-06-11 08:05:13,064 [INFO] Validated field 'Current Location'. Updated profile.
+2025-06-11 08:05:13,064 [INFO] Validated field 'Current Location'. Updated profile.
+2025-06-11 08:05:13,064 [INFO] Validated field 'Current Location'. Updated profile.
+2025-06-11 08:05:13,064 [INFO] Validated field 'Current Location'. Updated profile.
+2025-06-11 08:05:13,064 [INFO] Validated field 'Current Location'. Updated profile.
+2025-06-11 08:05:13,064 [INFO] Validated field 'Current Location'. Updated profile.
+2025-06-11 08:05:13,080 [INFO] Prompting next field: Tech Stack
+2025-06-11 08:05:13,080 [INFO] Prompting next field: Tech Stack
+2025-06-11 08:05:13,080 [INFO] Prompting next field: Tech Stack
+2025-06-11 08:05:13,080 [INFO] Prompting next field: Tech Stack
+2025-06-11 08:05:13,080 [INFO] Prompting next field: Tech Stack
+2025-06-11 08:05:13,080 [INFO] Prompting next field: Tech Stack
+2025-06-11 08:05:13,080 [INFO] Prompting next field: Tech Stack
+2025-06-11 08:05:13,080 [INFO] Prompting next field: Tech Stack
+2025-06-11 08:05:17,571 [INFO] Custom CSS injected.
+2025-06-11 08:05:17,571 [INFO] Custom CSS injected.
+2025-06-11 08:05:17,571 [INFO] Custom CSS injected.
+2025-06-11 08:05:17,571 [INFO] Custom CSS injected.
+2025-06-11 08:05:17,571 [INFO] Custom CSS injected.
+2025-06-11 08:05:17,571 [INFO] Custom CSS injected.
+2025-06-11 08:05:17,571 [INFO] Custom CSS injected.
+2025-06-11 08:05:17,571 [INFO] Custom CSS injected.
+2025-06-11 08:05:17,571 [INFO] Custom CSS injected.
+2025-06-11 08:05:17,637 [INFO] Rendered chat history with 14 messages.
+2025-06-11 08:05:17,637 [INFO] Rendered chat history with 14 messages.
+2025-06-11 08:05:17,637 [INFO] Rendered chat history with 14 messages.
+2025-06-11 08:05:17,637 [INFO] Rendered chat history with 14 messages.
+2025-06-11 08:05:17,637 [INFO] Rendered chat history with 14 messages.
+2025-06-11 08:05:17,637 [INFO] Rendered chat history with 14 messages.
+2025-06-11 08:05:17,637 [INFO] Rendered chat history with 14 messages.
+2025-06-11 08:05:17,637 [INFO] Rendered chat history with 14 messages.
+2025-06-11 08:05:17,637 [INFO] Rendered chat history with 14 messages.
+2025-06-11 08:05:17,667 [INFO] User input received: java , python
+2025-06-11 08:05:17,667 [INFO] User input received: java , python
+2025-06-11 08:05:17,667 [INFO] User input received: java , python
+2025-06-11 08:05:17,667 [INFO] User input received: java , python
+2025-06-11 08:05:17,667 [INFO] User input received: java , python
+2025-06-11 08:05:17,667 [INFO] User input received: java , python
+2025-06-11 08:05:17,667 [INFO] User input received: java , python
+2025-06-11 08:05:17,667 [INFO] User input received: java , python
+2025-06-11 08:05:17,667 [INFO] User input received: java , python
+2025-06-11 08:05:17,685 [INFO] Validating field: Tech Stack
+2025-06-11 08:05:17,685 [INFO] Validating field: Tech Stack
+2025-06-11 08:05:17,685 [INFO] Validating field: Tech Stack
+2025-06-11 08:05:17,685 [INFO] Validating field: Tech Stack
+2025-06-11 08:05:17,685 [INFO] Validating field: Tech Stack
+2025-06-11 08:05:17,685 [INFO] Validating field: Tech Stack
+2025-06-11 08:05:17,685 [INFO] Validating field: Tech Stack
+2025-06-11 08:05:17,685 [INFO] Validating field: Tech Stack
+2025-06-11 08:05:17,685 [INFO] Validating field: Tech Stack
+2025-06-11 08:05:17,707 [INFO] Validated field 'Tech Stack'. Updated profile.
+2025-06-11 08:05:17,707 [INFO] Validated field 'Tech Stack'. Updated profile.
+2025-06-11 08:05:17,707 [INFO] Validated field 'Tech Stack'. Updated profile.
+2025-06-11 08:05:17,707 [INFO] Validated field 'Tech Stack'. Updated profile.
+2025-06-11 08:05:17,707 [INFO] Validated field 'Tech Stack'. Updated profile.
+2025-06-11 08:05:17,707 [INFO] Validated field 'Tech Stack'. Updated profile.
+2025-06-11 08:05:17,707 [INFO] Validated field 'Tech Stack'. Updated profile.
+2025-06-11 08:05:17,707 [INFO] Validated field 'Tech Stack'. Updated profile.
+2025-06-11 08:05:17,707 [INFO] Validated field 'Tech Stack'. Updated profile.
+2025-06-11 08:05:17,727 [INFO] Profile completed. Great! Preparing your interview based on your selected tech stack...
+2025-06-11 08:05:17,727 [INFO] Profile completed. Great! Preparing your interview based on your selected tech stack...
+2025-06-11 08:05:17,727 [INFO] Profile completed. Great! Preparing your interview based on your selected tech stack...
+2025-06-11 08:05:17,727 [INFO] Profile completed. Great! Preparing your interview based on your selected tech stack...
+2025-06-11 08:05:17,727 [INFO] Profile completed. Great! Preparing your interview based on your selected tech stack...
+2025-06-11 08:05:17,727 [INFO] Profile completed. Great! Preparing your interview based on your selected tech stack...
+2025-06-11 08:05:17,727 [INFO] Profile completed. Great! Preparing your interview based on your selected tech stack...
+2025-06-11 08:05:17,727 [INFO] Profile completed. Great! Preparing your interview based on your selected tech stack...
+2025-06-11 08:05:17,727 [INFO] Profile completed. Great! Preparing your interview based on your selected tech stack...
+2025-06-11 08:05:17,746 [INFO] Initializing interview for topic: java
+2025-06-11 08:05:17,746 [INFO] Initializing interview for topic: java
+2025-06-11 08:05:17,746 [INFO] Initializing interview for topic: java
+2025-06-11 08:05:17,746 [INFO] Initializing interview for topic: java
+2025-06-11 08:05:17,746 [INFO] Initializing interview for topic: java
+2025-06-11 08:05:17,746 [INFO] Initializing interview for topic: java
+2025-06-11 08:05:17,746 [INFO] Initializing interview for topic: java
+2025-06-11 08:05:17,746 [INFO] Initializing interview for topic: java
+2025-06-11 08:05:17,746 [INFO] Initializing interview for topic: java
+2025-06-11 08:05:18,557 [INFO] LLM response received for initial interview question. Response:  
+
+Just to confirm, are you comfortable working with Java and Python?
+
+2025-06-11 08:05:18,557 [INFO] LLM response received for initial interview question. Response:  
+
+Just to confirm, are you comfortable working with Java and Python?
+
+2025-06-11 08:05:18,557 [INFO] LLM response received for initial interview question. Response:  
+
+Just to confirm, are you comfortable working with Java and Python?
+
+2025-06-11 08:05:18,557 [INFO] LLM response received for initial interview question. Response:  
+
+Just to confirm, are you comfortable working with Java and Python?
+
+2025-06-11 08:05:18,557 [INFO] LLM response received for initial interview question. Response:  
+
+Just to confirm, are you comfortable working with Java and Python?
+
+2025-06-11 08:05:18,557 [INFO] LLM response received for initial interview question. Response:  
+
+Just to confirm, are you comfortable working with Java and Python?
+
+2025-06-11 08:05:18,557 [INFO] LLM response received for initial interview question. Response:  
+
+Just to confirm, are you comfortable working with Java and Python?
+
+2025-06-11 08:05:18,557 [INFO] LLM response received for initial interview question. Response:  
+
+Just to confirm, are you comfortable working with Java and Python?
+
+2025-06-11 08:05:18,557 [INFO] LLM response received for initial interview question. Response:  
+
+Just to confirm, are you comfortable working with Java and Python?
+
+2025-06-11 08:05:24,297 [INFO] Custom CSS injected.
+2025-06-11 08:05:24,297 [INFO] Custom CSS injected.
+2025-06-11 08:05:24,297 [INFO] Custom CSS injected.
+2025-06-11 08:05:24,297 [INFO] Custom CSS injected.
+2025-06-11 08:05:24,297 [INFO] Custom CSS injected.
+2025-06-11 08:05:24,297 [INFO] Custom CSS injected.
+2025-06-11 08:05:24,297 [INFO] Custom CSS injected.
+2025-06-11 08:05:24,297 [INFO] Custom CSS injected.
+2025-06-11 08:05:24,297 [INFO] Custom CSS injected.
+2025-06-11 08:05:24,297 [INFO] Custom CSS injected.
+2025-06-11 08:05:24,374 [INFO] Rendered chat history with 17 messages.
+2025-06-11 08:05:24,374 [INFO] Rendered chat history with 17 messages.
+2025-06-11 08:05:24,374 [INFO] Rendered chat history with 17 messages.
+2025-06-11 08:05:24,374 [INFO] Rendered chat history with 17 messages.
+2025-06-11 08:05:24,374 [INFO] Rendered chat history with 17 messages.
+2025-06-11 08:05:24,374 [INFO] Rendered chat history with 17 messages.
+2025-06-11 08:05:24,374 [INFO] Rendered chat history with 17 messages.
+2025-06-11 08:05:24,374 [INFO] Rendered chat history with 17 messages.
+2025-06-11 08:05:24,374 [INFO] Rendered chat history with 17 messages.
+2025-06-11 08:05:24,374 [INFO] Rendered chat history with 17 messages.
+2025-06-11 08:05:24,408 [INFO] User input received: yeah im
+2025-06-11 08:05:24,408 [INFO] User input received: yeah im
+2025-06-11 08:05:24,408 [INFO] User input received: yeah im
+2025-06-11 08:05:24,408 [INFO] User input received: yeah im
+2025-06-11 08:05:24,408 [INFO] User input received: yeah im
+2025-06-11 08:05:24,408 [INFO] User input received: yeah im
+2025-06-11 08:05:24,408 [INFO] User input received: yeah im
+2025-06-11 08:05:24,408 [INFO] User input received: yeah im
+2025-06-11 08:05:24,408 [INFO] User input received: yeah im
+2025-06-11 08:05:24,408 [INFO] User input received: yeah im
+2025-06-11 08:05:24,441 [INFO] In normal interview phase. Current topic: java | Last question:  
+
+Just to confirm, are you comfortable working with Java and Python?
+ | User input: yeah im
+2025-06-11 08:05:24,441 [INFO] In normal interview phase. Current topic: java | Last question:  
+
+Just to confirm, are you comfortable working with Java and Python?
+ | User input: yeah im
+2025-06-11 08:05:24,441 [INFO] In normal interview phase. Current topic: java | Last question:  
+
+Just to confirm, are you comfortable working with Java and Python?
+ | User input: yeah im
+2025-06-11 08:05:24,441 [INFO] In normal interview phase. Current topic: java | Last question:  
+
+Just to confirm, are you comfortable working with Java and Python?
+ | User input: yeah im
+2025-06-11 08:05:24,441 [INFO] In normal interview phase. Current topic: java | Last question:  
+
+Just to confirm, are you comfortable working with Java and Python?
+ | User input: yeah im
+2025-06-11 08:05:24,441 [INFO] In normal interview phase. Current topic: java | Last question:  
+
+Just to confirm, are you comfortable working with Java and Python?
+ | User input: yeah im
+2025-06-11 08:05:24,441 [INFO] In normal interview phase. Current topic: java | Last question:  
+
+Just to confirm, are you comfortable working with Java and Python?
+ | User input: yeah im
+2025-06-11 08:05:24,441 [INFO] In normal interview phase. Current topic: java | Last question:  
+
+Just to confirm, are you comfortable working with Java and Python?
+ | User input: yeah im
+2025-06-11 08:05:24,441 [INFO] In normal interview phase. Current topic: java | Last question:  
+
+Just to confirm, are you comfortable working with Java and Python?
+ | User input: yeah im
+2025-06-11 08:05:24,441 [INFO] In normal interview phase. Current topic: java | Last question:  
+
+Just to confirm, are you comfortable working with Java and Python?
+ | User input: yeah im
+2025-06-11 08:05:25,227 [INFO] LLM response in normal phase: That's great!  
+
+Let's start with a basic Java question. Can you tell me the difference between an abstract class and an interface?
+
+2025-06-11 08:05:25,227 [INFO] LLM response in normal phase: That's great!  
+
+Let's start with a basic Java question. Can you tell me the difference between an abstract class and an interface?
+
+2025-06-11 08:05:25,227 [INFO] LLM response in normal phase: That's great!  
+
+Let's start with a basic Java question. Can you tell me the difference between an abstract class and an interface?
+
+2025-06-11 08:05:25,227 [INFO] LLM response in normal phase: That's great!  
+
+Let's start with a basic Java question. Can you tell me the difference between an abstract class and an interface?
+
+2025-06-11 08:05:25,227 [INFO] LLM response in normal phase: That's great!  
+
+Let's start with a basic Java question. Can you tell me the difference between an abstract class and an interface?
+
+2025-06-11 08:05:25,227 [INFO] LLM response in normal phase: That's great!  
+
+Let's start with a basic Java question. Can you tell me the difference between an abstract class and an interface?
+
+2025-06-11 08:05:25,227 [INFO] LLM response in normal phase: That's great!  
+
+Let's start with a basic Java question. Can you tell me the difference between an abstract class and an interface?
+
+2025-06-11 08:05:25,227 [INFO] LLM response in normal phase: That's great!  
+
+Let's start with a basic Java question. Can you tell me the difference between an abstract class and an interface?
+
+2025-06-11 08:05:25,227 [INFO] LLM response in normal phase: That's great!  
+
+Let's start with a basic Java question. Can you tell me the difference between an abstract class and an interface?
+
+2025-06-11 08:05:25,227 [INFO] LLM response in normal phase: That's great!  
+
+Let's start with a basic Java question. Can you tell me the difference between an abstract class and an interface?
+
+2025-06-11 08:05:43,994 [INFO] Custom CSS injected.
+2025-06-11 08:05:43,994 [INFO] Custom CSS injected.
+2025-06-11 08:05:43,994 [INFO] Custom CSS injected.
+2025-06-11 08:05:43,994 [INFO] Custom CSS injected.
+2025-06-11 08:05:43,994 [INFO] Custom CSS injected.
+2025-06-11 08:05:43,994 [INFO] Custom CSS injected.
+2025-06-11 08:05:43,994 [INFO] Custom CSS injected.
+2025-06-11 08:05:43,994 [INFO] Custom CSS injected.
+2025-06-11 08:05:43,994 [INFO] Custom CSS injected.
+2025-06-11 08:05:43,994 [INFO] Custom CSS injected.
+2025-06-11 08:05:43,994 [INFO] Custom CSS injected.
+2025-06-11 08:05:44,082 [INFO] Rendered chat history with 19 messages.
+2025-06-11 08:05:44,082 [INFO] Rendered chat history with 19 messages.
+2025-06-11 08:05:44,082 [INFO] Rendered chat history with 19 messages.
+2025-06-11 08:05:44,082 [INFO] Rendered chat history with 19 messages.
+2025-06-11 08:05:44,082 [INFO] Rendered chat history with 19 messages.
+2025-06-11 08:05:44,082 [INFO] Rendered chat history with 19 messages.
+2025-06-11 08:05:44,082 [INFO] Rendered chat history with 19 messages.
+2025-06-11 08:05:44,082 [INFO] Rendered chat history with 19 messages.
+2025-06-11 08:05:44,082 [INFO] Rendered chat history with 19 messages.
+2025-06-11 08:05:44,082 [INFO] Rendered chat history with 19 messages.
+2025-06-11 08:05:44,082 [INFO] Rendered chat history with 19 messages.
+2025-06-11 08:05:44,114 [INFO] User input received: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:44,114 [INFO] User input received: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:44,114 [INFO] User input received: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:44,114 [INFO] User input received: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:44,114 [INFO] User input received: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:44,114 [INFO] User input received: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:44,114 [INFO] User input received: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:44,114 [INFO] User input received: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:44,114 [INFO] User input received: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:44,114 [INFO] User input received: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:44,114 [INFO] User input received: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:44,149 [INFO] In normal interview phase. Current topic: java | Last question: That's great!  
+
+Let's start with a basic Java question. Can you tell me the difference between an abstract class and an interface?
+ | User input: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:44,149 [INFO] In normal interview phase. Current topic: java | Last question: That's great!  
+
+Let's start with a basic Java question. Can you tell me the difference between an abstract class and an interface?
+ | User input: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:44,149 [INFO] In normal interview phase. Current topic: java | Last question: That's great!  
+
+Let's start with a basic Java question. Can you tell me the difference between an abstract class and an interface?
+ | User input: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:44,149 [INFO] In normal interview phase. Current topic: java | Last question: That's great!  
+
+Let's start with a basic Java question. Can you tell me the difference between an abstract class and an interface?
+ | User input: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:44,149 [INFO] In normal interview phase. Current topic: java | Last question: That's great!  
+
+Let's start with a basic Java question. Can you tell me the difference between an abstract class and an interface?
+ | User input: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:44,149 [INFO] In normal interview phase. Current topic: java | Last question: That's great!  
+
+Let's start with a basic Java question. Can you tell me the difference between an abstract class and an interface?
+ | User input: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:44,149 [INFO] In normal interview phase. Current topic: java | Last question: That's great!  
+
+Let's start with a basic Java question. Can you tell me the difference between an abstract class and an interface?
+ | User input: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:44,149 [INFO] In normal interview phase. Current topic: java | Last question: That's great!  
+
+Let's start with a basic Java question. Can you tell me the difference between an abstract class and an interface?
+ | User input: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:44,149 [INFO] In normal interview phase. Current topic: java | Last question: That's great!  
+
+Let's start with a basic Java question. Can you tell me the difference between an abstract class and an interface?
+ | User input: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:44,149 [INFO] In normal interview phase. Current topic: java | Last question: That's great!  
+
+Let's start with a basic Java question. Can you tell me the difference between an abstract class and an interface?
+ | User input: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:44,149 [INFO] In normal interview phase. Current topic: java | Last question: That's great!  
+
+Let's start with a basic Java question. Can you tell me the difference between an abstract class and an interface?
+ | User input: Sure! Here’s a quick breakdown:
+
+* **Abstract Class:** Can have both implemented methods and abstract methods (no body). Supports constructors and state (fields).
+* **Interface:** Only method declarations (prior to Java 8) and can’t have state. Supports multiple inheritance.
+* **Key Difference:** Abstract classes define base behavior; interfaces define contracts.
+* Java 8+ interfaces can have default methods but still can't hold state.
+* You can extend one abstract class but implement multiple interfaces.
+
+2025-06-11 08:05:45,166 [INFO] LLM response in normal phase: That's a very good explanation, Hementh! You clearly understand the key differences.
+
+Now, can you give me an example of when you might choose to use an abstract class versus an interface?
+
+2025-06-11 08:05:45,166 [INFO] LLM response in normal phase: That's a very good explanation, Hementh! You clearly understand the key differences.
+
+Now, can you give me an example of when you might choose to use an abstract class versus an interface?
+
+2025-06-11 08:05:45,166 [INFO] LLM response in normal phase: That's a very good explanation, Hementh! You clearly understand the key differences.
+
+Now, can you give me an example of when you might choose to use an abstract class versus an interface?
+
+2025-06-11 08:05:45,166 [INFO] LLM response in normal phase: That's a very good explanation, Hementh! You clearly understand the key differences.
+
+Now, can you give me an example of when you might choose to use an abstract class versus an interface?
+
+2025-06-11 08:05:45,166 [INFO] LLM response in normal phase: That's a very good explanation, Hementh! You clearly understand the key differences.
+
+Now, can you give me an example of when you might choose to use an abstract class versus an interface?
+
+2025-06-11 08:05:45,166 [INFO] LLM response in normal phase: That's a very good explanation, Hementh! You clearly understand the key differences.
+
+Now, can you give me an example of when you might choose to use an abstract class versus an interface?
+
+2025-06-11 08:05:45,166 [INFO] LLM response in normal phase: That's a very good explanation, Hementh! You clearly understand the key differences.
+
+Now, can you give me an example of when you might choose to use an abstract class versus an interface?
+
+2025-06-11 08:05:45,166 [INFO] LLM response in normal phase: That's a very good explanation, Hementh! You clearly understand the key differences.
+
+Now, can you give me an example of when you might choose to use an abstract class versus an interface?
+
+2025-06-11 08:05:45,166 [INFO] LLM response in normal phase: That's a very good explanation, Hementh! You clearly understand the key differences.
+
+Now, can you give me an example of when you might choose to use an abstract class versus an interface?
+
+2025-06-11 08:05:45,166 [INFO] LLM response in normal phase: That's a very good explanation, Hementh! You clearly understand the key differences.
+
+Now, can you give me an example of when you might choose to use an abstract class versus an interface?
+
+2025-06-11 08:05:45,166 [INFO] LLM response in normal phase: That's a very good explanation, Hementh! You clearly understand the key differences.
+
+Now, can you give me an example of when you might choose to use an abstract class versus an interface?
+
+2025-06-11 08:06:11,737 [INFO] Custom CSS injected.
+2025-06-11 08:06:11,737 [INFO] Custom CSS injected.
+2025-06-11 08:06:11,737 [INFO] Custom CSS injected.
+2025-06-11 08:06:11,737 [INFO] Custom CSS injected.
+2025-06-11 08:06:11,737 [INFO] Custom CSS injected.
+2025-06-11 08:06:11,737 [INFO] Custom CSS injected.
+2025-06-11 08:06:11,737 [INFO] Custom CSS injected.
+2025-06-11 08:06:11,737 [INFO] Custom CSS injected.
+2025-06-11 08:06:11,737 [INFO] Custom CSS injected.
+2025-06-11 08:06:11,737 [INFO] Custom CSS injected.
+2025-06-11 08:06:11,737 [INFO] Custom CSS injected.
+2025-06-11 08:06:11,737 [INFO] Custom CSS injected.
+2025-06-11 08:06:11,834 [INFO] Rendered chat history with 21 messages.
+2025-06-11 08:06:11,834 [INFO] Rendered chat history with 21 messages.
+2025-06-11 08:06:11,834 [INFO] Rendered chat history with 21 messages.
+2025-06-11 08:06:11,834 [INFO] Rendered chat history with 21 messages.
+2025-06-11 08:06:11,834 [INFO] Rendered chat history with 21 messages.
+2025-06-11 08:06:11,834 [INFO] Rendered chat history with 21 messages.
+2025-06-11 08:06:11,834 [INFO] Rendered chat history with 21 messages.
+2025-06-11 08:06:11,834 [INFO] Rendered chat history with 21 messages.
+2025-06-11 08:06:11,834 [INFO] Rendered chat history with 21 messages.
+2025-06-11 08:06:11,834 [INFO] Rendered chat history with 21 messages.
+2025-06-11 08:06:11,834 [INFO] Rendered chat history with 21 messages.
+2025-06-11 08:06:11,834 [INFO] Rendered chat history with 21 messages.
+2025-06-11 08:06:11,877 [INFO] User input received: Sure! I’d use an **abstract class** when multiple classes share common behavior or state, like a `Vehicle` class with shared speed and fuel properties.
+I’d choose an **interface** when I want to enforce a contract across unrelated classes, like `Serializable` or `Comparable`.
+Abstract classes are great for “is-a” relationships with shared logic.
+Interfaces are best for “can-do” capabilities without forcing inheritance.
+If I need multiple inheritances of behavior, interfaces are the way to go.
+
+2025-06-11 08:06:11,877 [INFO] User input received: Sure! I’d use an **abstract class** when multiple classes share common behavior or state, like a `Vehicle` class with shared speed and fuel properties.
+I’d choose an **interface** when I want to enforce a contract across unrelated classes, like `Serializable` or `Comparable`.
+Abstract classes are great for “is-a” relationships with shared logic.
+Interfaces are best for “can-do” capabilities without forcing inheritance.
+If I need multiple inheritances of behavior, interfaces are the way to go.
+
+2025-06-11 08:06:11,877 [INFO] User input received: Sure! I’d use an **abstract class** when multiple classes share common behavior or state, like a `Vehicle` class with shared speed and fuel properties.
+I’d choose an **interface** when I want to enforce a contract across unrelated classes, like `Serializable` or `Comparable`.
+Abstract classes are great for “is-a” relationships with shared logic.
+Interfaces are best for “can-do” capabilities without forcing inheritance.
+If I need multiple inheritances of behavior, interfaces are the way to go.
+
+2025-06-11 08:06:11,877 [INFO] User input received: Sure! I’d use an **abstract class** when multiple classes share common behavior or state, like a `Vehicle` class with shared speed and fuel properties.
+I’d choose an **interface** when I want to enforce a contract across unrelated classes, like `Serializable` or `Comparable`.
+Abstract classes are great for “is-a” relationships with shared logic.
+Interfaces are best for “can-do” capabilities without forcing inheritance.
+If I need multiple inheritances of behavior, interfaces are the way to go.
+
+2025-06-11 08:06:11,877 [INFO] User input received: Sure! I’d use an **abstract class** when multiple classes share common behavior or state, like a `Vehicle` class with shared speed and fuel properties.
+I’d choose an **interface** when I want to enforce a contract across unrelated classes, like `Serializable` or `Comparable`.
+Abstract classes are great for “is-a” relationships with shared logic.
+Interfaces are best for “can-do” capabilities without forcing inheritance.
+If I need multiple inheritances of behavior, interfaces are the way to go.
+
+2025-06-11 08:06:11,877 [INFO] User input received: Sure! I’d use an **abstract class** when multiple classes share common behavior or state, like a `Vehicle` class with shared speed and fuel properties.
+I’d choose an **interface** when I want to enforce a contract across unrelated classes, like `Serializable` or `Comparable`.
+Abstract classes are great for “is-a” relationships with shared logic.
+Interfaces are best for “can-do” capabilities without forcing inheritance.
+If I need multiple inheritances of behavior, interfaces are the way to go.
+
+2025-06-11 08:06:11,877 [INFO] User input received: Sure! I’d use an **abstract class** when multiple classes share common behavior or state, like a `Vehicle` class with shared speed and fuel properties.
+I’d choose an **interface** when I want to enforce a contract across unrelated classes, like `Serializable` or `Comparable`.
+Abstract classes are great for “is-a” relationships with shared logic.
+Interfaces are best for “can-do” capabilities without forcing inheritance.
+If I need multiple inheritances of behavior, interfaces are the way to go.
+
+2025-06-11 08:06:11,877 [INFO] User input received: Sure! I’d use an **abstract class** when multiple classes share common behavior or state, like a `Vehicle` class with shared speed and fuel properties.
+I’d choose an **interface** when I want to enforce a contract across unrelated classes, like `Serializable` or `Comparable`.
+Abstract classes are great for “is-a” relationships with shared logic.
+Interfaces are best for “can-do” capabilities without forcing inheritance.
+If I need multiple inheritances of behavior, interfaces are the way to go.
+
+2025-06-11 08:06:11,877 [INFO] User input received: Sure! I’d use an **abstract class** when multiple classes share common behavior or state, like a `Vehicle` class with shared speed and fuel properties.
+I’d choose an **interface** when I want to enforce a contract across unrelated classes, like `Serializable` or `Comparable`.
+Abstract classes are great for “is-a” relationships with shared logic.
+Interfaces are best for “can-do” capabilities without forcing inheritance.
+If I need multiple inheritances of behavior, interfaces are the way to go.
+
+2025-06-11 08:06:11,877 [INFO] User input received: Sure! I’d use an **abstract class** when multiple classes share common behavior or state, like a `Vehicle` class with shared speed and fuel properties.
+I’d choose an **interface** when I want to enforce a contract across unrelated classes, like `Serializable` or `Comparable`.
+Abstract classes are great for “is-a” relationships with shared logic.
+Interfaces are best for “can-do” capabilities without forcing inheritance.
+If I need multiple inheritances of behavior, interfaces are the way to go.
+
+2025-06-11 08:06:11,877 [INFO] User input received: Sure! I’d use an **abstract class** when multiple classes share common behavior or state, like a `Vehicle` class with shared speed and fuel properties.
+I’d choose an **interface** when I want to enforce a contract across unrelated classes, like `Serializable` or `Comparable`.
+Abstract classes are great for “is-a” relationships with shared logic.
+Interfaces are best for “can-do” capabilities without forcing inheritance.
+If I need multiple inheritances of behavior, interfaces are the way to go.
+
+2025-06-11 08:06:11,877 [INFO] User input received: Sure! I’d use an **abstract class** when multiple classes share common behavior or state, like a `Vehicle` class with shared speed and fuel properties.
+I’d choose an **interface** when I want to enforce a contract across unrelated classes, like `Serializable` or `Comparable`.
+Abstract classes are great for “is-a” relationships with shared logic.
+Interfaces are best for “can-do” capabilities without forcing inheritance.
+If I need multiple inheritances of behavior, interfaces are the way to go.
+
+2025-06-11 08:06:11,921 [INFO] Switching to next topic: python
+2025-06-11 08:06:11,921 [INFO] Switching to next topic: python
+2025-06-11 08:06:11,921 [INFO] Switching to next topic: python
+2025-06-11 08:06:11,921 [INFO] Switching to next topic: python
+2025-06-11 08:06:11,921 [INFO] Switching to next topic: python
+2025-06-11 08:06:11,921 [INFO] Switching to next topic: python
+2025-06-11 08:06:11,921 [INFO] Switching to next topic: python
+2025-06-11 08:06:11,921 [INFO] Switching to next topic: python
+2025-06-11 08:06:11,921 [INFO] Switching to next topic: python
+2025-06-11 08:06:11,921 [INFO] Switching to next topic: python
+2025-06-11 08:06:11,921 [INFO] Switching to next topic: python
+2025-06-11 08:06:11,921 [INFO] Switching to next topic: python
+2025-06-11 08:06:13,022 [INFO] LLM response for topic switch: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+
+2025-06-11 08:06:13,022 [INFO] LLM response for topic switch: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+
+2025-06-11 08:06:13,022 [INFO] LLM response for topic switch: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+
+2025-06-11 08:06:13,022 [INFO] LLM response for topic switch: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+
+2025-06-11 08:06:13,022 [INFO] LLM response for topic switch: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+
+2025-06-11 08:06:13,022 [INFO] LLM response for topic switch: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+
+2025-06-11 08:06:13,022 [INFO] LLM response for topic switch: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+
+2025-06-11 08:06:13,022 [INFO] LLM response for topic switch: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+
+2025-06-11 08:06:13,022 [INFO] LLM response for topic switch: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+
+2025-06-11 08:06:13,022 [INFO] LLM response for topic switch: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+
+2025-06-11 08:06:13,022 [INFO] LLM response for topic switch: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+
+2025-06-11 08:06:13,022 [INFO] LLM response for topic switch: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+
+2025-06-11 08:06:36,335 [INFO] Custom CSS injected.
+2025-06-11 08:06:36,335 [INFO] Custom CSS injected.
+2025-06-11 08:06:36,335 [INFO] Custom CSS injected.
+2025-06-11 08:06:36,335 [INFO] Custom CSS injected.
+2025-06-11 08:06:36,335 [INFO] Custom CSS injected.
+2025-06-11 08:06:36,335 [INFO] Custom CSS injected.
+2025-06-11 08:06:36,335 [INFO] Custom CSS injected.
+2025-06-11 08:06:36,335 [INFO] Custom CSS injected.
+2025-06-11 08:06:36,335 [INFO] Custom CSS injected.
+2025-06-11 08:06:36,335 [INFO] Custom CSS injected.
+2025-06-11 08:06:36,335 [INFO] Custom CSS injected.
+2025-06-11 08:06:36,335 [INFO] Custom CSS injected.
+2025-06-11 08:06:36,335 [INFO] Custom CSS injected.
+2025-06-11 08:06:36,438 [INFO] Rendered chat history with 23 messages.
+2025-06-11 08:06:36,438 [INFO] Rendered chat history with 23 messages.
+2025-06-11 08:06:36,438 [INFO] Rendered chat history with 23 messages.
+2025-06-11 08:06:36,438 [INFO] Rendered chat history with 23 messages.
+2025-06-11 08:06:36,438 [INFO] Rendered chat history with 23 messages.
+2025-06-11 08:06:36,438 [INFO] Rendered chat history with 23 messages.
+2025-06-11 08:06:36,438 [INFO] Rendered chat history with 23 messages.
+2025-06-11 08:06:36,438 [INFO] Rendered chat history with 23 messages.
+2025-06-11 08:06:36,438 [INFO] Rendered chat history with 23 messages.
+2025-06-11 08:06:36,438 [INFO] Rendered chat history with 23 messages.
+2025-06-11 08:06:36,438 [INFO] Rendered chat history with 23 messages.
+2025-06-11 08:06:36,438 [INFO] Rendered chat history with 23 messages.
+2025-06-11 08:06:36,438 [INFO] Rendered chat history with 23 messages.
+2025-06-11 08:06:36,470 [INFO] User input received: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,470 [INFO] User input received: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,470 [INFO] User input received: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,470 [INFO] User input received: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,470 [INFO] User input received: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,470 [INFO] User input received: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,470 [INFO] User input received: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,470 [INFO] User input received: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,470 [INFO] User input received: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,470 [INFO] User input received: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,470 [INFO] User input received: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,470 [INFO] User input received: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,470 [INFO] User input received: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,516 [INFO] In normal interview phase. Current topic: python | Last question: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+ | User input: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,516 [INFO] In normal interview phase. Current topic: python | Last question: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+ | User input: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,516 [INFO] In normal interview phase. Current topic: python | Last question: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+ | User input: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,516 [INFO] In normal interview phase. Current topic: python | Last question: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+ | User input: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,516 [INFO] In normal interview phase. Current topic: python | Last question: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+ | User input: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,516 [INFO] In normal interview phase. Current topic: python | Last question: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+ | User input: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,516 [INFO] In normal interview phase. Current topic: python | Last question: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+ | User input: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,516 [INFO] In normal interview phase. Current topic: python | Last question: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+ | User input: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,516 [INFO] In normal interview phase. Current topic: python | Last question: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+ | User input: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,516 [INFO] In normal interview phase. Current topic: python | Last question: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+ | User input: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,516 [INFO] In normal interview phase. Current topic: python | Last question: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+ | User input: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,516 [INFO] In normal interview phase. Current topic: python | Last question: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+ | User input: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:36,516 [INFO] In normal interview phase. Current topic: python | Last question: Excellent points, Hementh! You've really grasped the nuances of when to use each. 
+
+Let's shift gears a bit. Can you tell me about your experience with Object-Oriented Programming (OOP) concepts like encapsulation, inheritance, and polymorphism? 
+
+
+
+
+ | User input: Sure! I’ve applied **OOP concepts extensively** in Java projects.
+I used **encapsulation** to protect class data with private fields and public getters/setters.
+**Inheritance** helped me build clean hierarchies, like base `User` classes extended by `Admin` and `Customer`.
+I applied **polymorphism** to write flexible, reusable methods that handled different object types.
+These concepts helped me write scalable, maintainable, and modular code throughout my projects.
+
+2025-06-11 08:06:37,932 [INFO] LLM response in normal phase: It sounds like you have a solid understanding of OOP principles and how to apply them in practice.
+
+Can you give me a specific example of how you used polymorphism in a project? What problem did it solve, and how did it make your code better?
+
+2025-06-11 08:06:37,932 [INFO] LLM response in normal phase: It sounds like you have a solid understanding of OOP principles and how to apply them in practice.
+
+Can you give me a specific example of how you used polymorphism in a project? What problem did it solve, and how did it make your code better?
+
+2025-06-11 08:06:37,932 [INFO] LLM response in normal phase: It sounds like you have a solid understanding of OOP principles and how to apply them in practice.
+
+Can you give me a specific example of how you used polymorphism in a project? What problem did it solve, and how did it make your code better?
+
+2025-06-11 08:06:37,932 [INFO] LLM response in normal phase: It sounds like you have a solid understanding of OOP principles and how to apply them in practice.
+
+Can you give me a specific example of how you used polymorphism in a project? What problem did it solve, and how did it make your code better?
+
+2025-06-11 08:06:37,932 [INFO] LLM response in normal phase: It sounds like you have a solid understanding of OOP principles and how to apply them in practice.
+
+Can you give me a specific example of how you used polymorphism in a project? What problem did it solve, and how did it make your code better?
+
+2025-06-11 08:06:37,932 [INFO] LLM response in normal phase: It sounds like you have a solid understanding of OOP principles and how to apply them in practice.
+
+Can you give me a specific example of how you used polymorphism in a project? What problem did it solve, and how did it make your code better?
+
+2025-06-11 08:06:37,932 [INFO] LLM response in normal phase: It sounds like you have a solid understanding of OOP principles and how to apply them in practice.
+
+Can you give me a specific example of how you used polymorphism in a project? What problem did it solve, and how did it make your code better?
+
+2025-06-11 08:06:37,932 [INFO] LLM response in normal phase: It sounds like you have a solid understanding of OOP principles and how to apply them in practice.
+
+Can you give me a specific example of how you used polymorphism in a project? What problem did it solve, and how did it make your code better?
+
+2025-06-11 08:06:37,932 [INFO] LLM response in normal phase: It sounds like you have a solid understanding of OOP principles and how to apply them in practice.
+
+Can you give me a specific example of how you used polymorphism in a project? What problem did it solve, and how did it make your code better?
+
+2025-06-11 08:06:37,932 [INFO] LLM response in normal phase: It sounds like you have a solid understanding of OOP principles and how to apply them in practice.
+
+Can you give me a specific example of how you used polymorphism in a project? What problem did it solve, and how did it make your code better?
+
+2025-06-11 08:06:37,932 [INFO] LLM response in normal phase: It sounds like you have a solid understanding of OOP principles and how to apply them in practice.
+
+Can you give me a specific example of how you used polymorphism in a project? What problem did it solve, and how did it make your code better?
+
+2025-06-11 08:06:37,932 [INFO] LLM response in normal phase: It sounds like you have a solid understanding of OOP principles and how to apply them in practice.
+
+Can you give me a specific example of how you used polymorphism in a project? What problem did it solve, and how did it make your code better?
+
+2025-06-11 08:06:37,932 [INFO] LLM response in normal phase: It sounds like you have a solid understanding of OOP principles and how to apply them in practice.
+
+Can you give me a specific example of how you used polymorphism in a project? What problem did it solve, and how did it make your code better?
+
+2025-06-11 08:09:05,524 [INFO] Custom CSS injected.
+2025-06-11 08:09:05,524 [INFO] Custom CSS injected.
+2025-06-11 08:09:05,524 [INFO] Custom CSS injected.
+2025-06-11 08:09:05,524 [INFO] Custom CSS injected.
+2025-06-11 08:09:05,524 [INFO] Custom CSS injected.
+2025-06-11 08:09:05,524 [INFO] Custom CSS injected.
+2025-06-11 08:09:05,524 [INFO] Custom CSS injected.
+2025-06-11 08:09:05,524 [INFO] Custom CSS injected.
+2025-06-11 08:09:05,524 [INFO] Custom CSS injected.
+2025-06-11 08:09:05,524 [INFO] Custom CSS injected.
+2025-06-11 08:09:05,524 [INFO] Custom CSS injected.
+2025-06-11 08:09:05,524 [INFO] Custom CSS injected.
+2025-06-11 08:09:05,524 [INFO] Custom CSS injected.
+2025-06-11 08:09:05,524 [INFO] Custom CSS injected.
+2025-06-11 08:09:05,548 [INFO] Session state initialized. First question: Hey there! Let’s get you set up. What’s your Full Name?
+2025-06-11 08:09:05,548 [INFO] Session state initialized. First question: Hey there! Let’s get you set up. What’s your Full Name?
+2025-06-11 08:09:05,548 [INFO] Session state initialized. First question: Hey there! Let’s get you set up. What’s your Full Name?
+2025-06-11 08:09:05,548 [INFO] Session state initialized. First question: Hey there! Let’s get you set up. What’s your Full Name?
+2025-06-11 08:09:05,548 [INFO] Session state initialized. First question: Hey there! Let’s get you set up. What’s your Full Name?
+2025-06-11 08:09:05,548 [INFO] Session state initialized. First question: Hey there! Let’s get you set up. What’s your Full Name?
+2025-06-11 08:09:05,548 [INFO] Session state initialized. First question: Hey there! Let’s get you set up. What’s your Full Name?
+2025-06-11 08:09:05,548 [INFO] Session state initialized. First question: Hey there! Let’s get you set up. What’s your Full Name?
+2025-06-11 08:09:05,548 [INFO] Session state initialized. First question: Hey there! Let’s get you set up. What’s your Full Name?
+2025-06-11 08:09:05,548 [INFO] Session state initialized. First question: Hey there! Let’s get you set up. What’s your Full Name?
+2025-06-11 08:09:05,548 [INFO] Session state initialized. First question: Hey there! Let’s get you set up. What’s your Full Name?
+2025-06-11 08:09:05,548 [INFO] Session state initialized. First question: Hey there! Let’s get you set up. What’s your Full Name?
+2025-06-11 08:09:05,548 [INFO] Session state initialized. First question: Hey there! Let’s get you set up. What’s your Full Name?
+2025-06-11 08:09:05,548 [INFO] Session state initialized. First question: Hey there! Let’s get you set up. What’s your Full Name?
+2025-06-11 08:09:05,570 [INFO] Rendered chat history with 1 messages.
+2025-06-11 08:09:05,570 [INFO] Rendered chat history with 1 messages.
+2025-06-11 08:09:05,570 [INFO] Rendered chat history with 1 messages.
+2025-06-11 08:09:05,570 [INFO] Rendered chat history with 1 messages.
+2025-06-11 08:09:05,570 [INFO] Rendered chat history with 1 messages.
+2025-06-11 08:09:05,570 [INFO] Rendered chat history with 1 messages.
+2025-06-11 08:09:05,570 [INFO] Rendered chat history with 1 messages.
+2025-06-11 08:09:05,570 [INFO] Rendered chat history with 1 messages.
+2025-06-11 08:09:05,570 [INFO] Rendered chat history with 1 messages.
+2025-06-11 08:09:05,570 [INFO] Rendered chat history with 1 messages.
+2025-06-11 08:09:05,570 [INFO] Rendered chat history with 1 messages.
+2025-06-11 08:09:05,570 [INFO] Rendered chat history with 1 messages.
+2025-06-11 08:09:05,570 [INFO] Rendered chat history with 1 messages.
+2025-06-11 08:09:05,570 [INFO] Rendered chat history with 1 messages.
+2025-06-11 08:38:20,253 [INFO] Custom CSS injected.
+2025-06-11 08:38:20,255 [INFO] Session state initialized. First question: Hey there! Let’s get you set up. What’s your Full Name?
+2025-06-11 08:38:20,257 [INFO] Rendered chat history with 1 messages.
+2025-06-11 08:38:25,983 [INFO] Custom CSS injected.
+2025-06-11 08:38:25,983 [INFO] Custom CSS injected.
+2025-06-11 08:38:25,994 [INFO] Rendered chat history with 1 messages.
+2025-06-11 08:38:25,994 [INFO] Rendered chat history with 1 messages.
+2025-06-11 08:38:26,011 [INFO] User input received: hemanth
+2025-06-11 08:38:26,011 [INFO] User input received: hemanth
+2025-06-11 08:38:26,021 [INFO] Validating field: Full Name
+2025-06-11 08:38:26,021 [INFO] Validating field: Full Name
+2025-06-11 08:38:26,029 [INFO] Validated field 'Full Name'. Updated profile.
+2025-06-11 08:38:26,029 [INFO] Validated field 'Full Name'. Updated profile.
+2025-06-11 08:38:26,037 [INFO] Prompting next field: Email Address
+2025-06-11 08:38:26,037 [INFO] Prompting next field: Email Address
+2025-06-11 08:38:30,830 [INFO] Custom CSS injected.
+2025-06-11 08:38:30,830 [INFO] Custom CSS injected.
+2025-06-11 08:38:30,830 [INFO] Custom CSS injected.
+2025-06-11 08:38:30,844 [INFO] Rendered chat history with 3 messages.
+2025-06-11 08:38:30,844 [INFO] Rendered chat history with 3 messages.
+2025-06-11 08:38:30,844 [INFO] Rendered chat history with 3 messages.
+2025-06-11 08:38:30,864 [INFO] User input received: wd@gamil.com
+2025-06-11 08:38:30,864 [INFO] User input received: wd@gamil.com
+2025-06-11 08:38:30,864 [INFO] User input received: wd@gamil.com
+2025-06-11 08:38:30,879 [INFO] Validating field: Email Address
+2025-06-11 08:38:30,879 [INFO] Validating field: Email Address
+2025-06-11 08:38:30,879 [INFO] Validating field: Email Address
+2025-06-11 08:38:30,890 [INFO] Validated field 'Email Address'. Updated profile.
+2025-06-11 08:38:30,890 [INFO] Validated field 'Email Address'. Updated profile.
+2025-06-11 08:38:30,890 [INFO] Validated field 'Email Address'. Updated profile.
+2025-06-11 08:38:30,900 [INFO] Prompting next field: Phone Number
+2025-06-11 08:38:30,900 [INFO] Prompting next field: Phone Number
+2025-06-11 08:38:30,900 [INFO] Prompting next field: Phone Number
+2025-06-11 08:38:33,913 [INFO] Custom CSS injected.
+2025-06-11 08:38:33,913 [INFO] Custom CSS injected.
+2025-06-11 08:38:33,913 [INFO] Custom CSS injected.
+2025-06-11 08:38:33,913 [INFO] Custom CSS injected.
+2025-06-11 08:38:33,941 [INFO] Rendered chat history with 5 messages.
+2025-06-11 08:38:33,941 [INFO] Rendered chat history with 5 messages.
+2025-06-11 08:38:33,941 [INFO] Rendered chat history with 5 messages.
+2025-06-11 08:38:33,941 [INFO] Rendered chat history with 5 messages.
+2025-06-11 08:38:33,962 [INFO] User input received: 1234567890
+2025-06-11 08:38:33,962 [INFO] User input received: 1234567890
+2025-06-11 08:38:33,962 [INFO] User input received: 1234567890
+2025-06-11 08:38:33,962 [INFO] User input received: 1234567890
+2025-06-11 08:38:33,976 [INFO] Validating field: Phone Number
+2025-06-11 08:38:33,976 [INFO] Validating field: Phone Number
+2025-06-11 08:38:33,976 [INFO] Validating field: Phone Number
+2025-06-11 08:38:33,976 [INFO] Validating field: Phone Number
+2025-06-11 08:38:33,988 [INFO] Validated field 'Phone Number'. Updated profile.
+2025-06-11 08:38:33,988 [INFO] Validated field 'Phone Number'. Updated profile.
+2025-06-11 08:38:33,988 [INFO] Validated field 'Phone Number'. Updated profile.
+2025-06-11 08:38:33,988 [INFO] Validated field 'Phone Number'. Updated profile.
+2025-06-11 08:38:33,997 [INFO] Prompting next field: Years of Experience
+2025-06-11 08:38:33,997 [INFO] Prompting next field: Years of Experience
+2025-06-11 08:38:33,997 [INFO] Prompting next field: Years of Experience
+2025-06-11 08:38:33,997 [INFO] Prompting next field: Years of Experience
+2025-06-11 08:38:35,899 [INFO] Custom CSS injected.
+2025-06-11 08:38:35,899 [INFO] Custom CSS injected.
+2025-06-11 08:38:35,899 [INFO] Custom CSS injected.
+2025-06-11 08:38:35,899 [INFO] Custom CSS injected.
+2025-06-11 08:38:35,899 [INFO] Custom CSS injected.
+2025-06-11 08:38:35,938 [INFO] Rendered chat history with 7 messages.
+2025-06-11 08:38:35,938 [INFO] Rendered chat history with 7 messages.
+2025-06-11 08:38:35,938 [INFO] Rendered chat history with 7 messages.
+2025-06-11 08:38:35,938 [INFO] Rendered chat history with 7 messages.
+2025-06-11 08:38:35,938 [INFO] Rendered chat history with 7 messages.
+2025-06-11 08:38:35,968 [INFO] User input received: 2
+2025-06-11 08:38:35,968 [INFO] User input received: 2
+2025-06-11 08:38:35,968 [INFO] User input received: 2
+2025-06-11 08:38:35,968 [INFO] User input received: 2
+2025-06-11 08:38:35,968 [INFO] User input received: 2
+2025-06-11 08:38:35,982 [INFO] Validating field: Years of Experience
+2025-06-11 08:38:35,982 [INFO] Validating field: Years of Experience
+2025-06-11 08:38:35,982 [INFO] Validating field: Years of Experience
+2025-06-11 08:38:35,982 [INFO] Validating field: Years of Experience
+2025-06-11 08:38:35,982 [INFO] Validating field: Years of Experience
+2025-06-11 08:38:35,990 [INFO] Validated field 'Years of Experience'. Updated profile.
+2025-06-11 08:38:35,990 [INFO] Validated field 'Years of Experience'. Updated profile.
+2025-06-11 08:38:35,990 [INFO] Validated field 'Years of Experience'. Updated profile.
+2025-06-11 08:38:35,990 [INFO] Validated field 'Years of Experience'. Updated profile.
+2025-06-11 08:38:35,990 [INFO] Validated field 'Years of Experience'. Updated profile.
+2025-06-11 08:38:36,003 [INFO] Prompting next field: Desired Position(s)
+2025-06-11 08:38:36,003 [INFO] Prompting next field: Desired Position(s)
+2025-06-11 08:38:36,003 [INFO] Prompting next field: Desired Position(s)
+2025-06-11 08:38:36,003 [INFO] Prompting next field: Desired Position(s)
+2025-06-11 08:38:36,003 [INFO] Prompting next field: Desired Position(s)
+2025-06-11 08:38:37,680 [INFO] Custom CSS injected.
+2025-06-11 08:38:37,680 [INFO] Custom CSS injected.
+2025-06-11 08:38:37,680 [INFO] Custom CSS injected.
+2025-06-11 08:38:37,680 [INFO] Custom CSS injected.
+2025-06-11 08:38:37,680 [INFO] Custom CSS injected.
+2025-06-11 08:38:37,680 [INFO] Custom CSS injected.
+2025-06-11 08:38:37,725 [INFO] Rendered chat history with 9 messages.
+2025-06-11 08:38:37,725 [INFO] Rendered chat history with 9 messages.
+2025-06-11 08:38:37,725 [INFO] Rendered chat history with 9 messages.
+2025-06-11 08:38:37,725 [INFO] Rendered chat history with 9 messages.
+2025-06-11 08:38:37,725 [INFO] Rendered chat history with 9 messages.
+2025-06-11 08:38:37,725 [INFO] Rendered chat history with 9 messages.
+2025-06-11 08:38:37,749 [INFO] User input received: asdfghjk
+2025-06-11 08:38:37,749 [INFO] User input received: asdfghjk
+2025-06-11 08:38:37,749 [INFO] User input received: asdfghjk
+2025-06-11 08:38:37,749 [INFO] User input received: asdfghjk
+2025-06-11 08:38:37,749 [INFO] User input received: asdfghjk
+2025-06-11 08:38:37,749 [INFO] User input received: asdfghjk
+2025-06-11 08:38:37,766 [INFO] Validating field: Desired Position(s)
+2025-06-11 08:38:37,766 [INFO] Validating field: Desired Position(s)
+2025-06-11 08:38:37,766 [INFO] Validating field: Desired Position(s)
+2025-06-11 08:38:37,766 [INFO] Validating field: Desired Position(s)
+2025-06-11 08:38:37,766 [INFO] Validating field: Desired Position(s)
+2025-06-11 08:38:37,766 [INFO] Validating field: Desired Position(s)
+2025-06-11 08:38:37,776 [INFO] Validated field 'Desired Position(s)'. Updated profile.
+2025-06-11 08:38:37,776 [INFO] Validated field 'Desired Position(s)'. Updated profile.
+2025-06-11 08:38:37,776 [INFO] Validated field 'Desired Position(s)'. Updated profile.
+2025-06-11 08:38:37,776 [INFO] Validated field 'Desired Position(s)'. Updated profile.
+2025-06-11 08:38:37,776 [INFO] Validated field 'Desired Position(s)'. Updated profile.
+2025-06-11 08:38:37,776 [INFO] Validated field 'Desired Position(s)'. Updated profile.
+2025-06-11 08:38:37,787 [INFO] Prompting next field: Current Location
+2025-06-11 08:38:37,787 [INFO] Prompting next field: Current Location
+2025-06-11 08:38:37,787 [INFO] Prompting next field: Current Location
+2025-06-11 08:38:37,787 [INFO] Prompting next field: Current Location
+2025-06-11 08:38:37,787 [INFO] Prompting next field: Current Location
+2025-06-11 08:38:37,787 [INFO] Prompting next field: Current Location
+2025-06-11 08:38:39,174 [INFO] Custom CSS injected.
+2025-06-11 08:38:39,174 [INFO] Custom CSS injected.
+2025-06-11 08:38:39,174 [INFO] Custom CSS injected.
+2025-06-11 08:38:39,174 [INFO] Custom CSS injected.
+2025-06-11 08:38:39,174 [INFO] Custom CSS injected.
+2025-06-11 08:38:39,174 [INFO] Custom CSS injected.
+2025-06-11 08:38:39,174 [INFO] Custom CSS injected.
+2025-06-11 08:38:39,243 [INFO] Rendered chat history with 11 messages.
+2025-06-11 08:38:39,243 [INFO] Rendered chat history with 11 messages.
+2025-06-11 08:38:39,243 [INFO] Rendered chat history with 11 messages.
+2025-06-11 08:38:39,243 [INFO] Rendered chat history with 11 messages.
+2025-06-11 08:38:39,243 [INFO] Rendered chat history with 11 messages.
+2025-06-11 08:38:39,243 [INFO] Rendered chat history with 11 messages.
+2025-06-11 08:38:39,243 [INFO] Rendered chat history with 11 messages.
+2025-06-11 08:38:39,275 [INFO] User input received: sdfghjk
+2025-06-11 08:38:39,275 [INFO] User input received: sdfghjk
+2025-06-11 08:38:39,275 [INFO] User input received: sdfghjk
+2025-06-11 08:38:39,275 [INFO] User input received: sdfghjk
+2025-06-11 08:38:39,275 [INFO] User input received: sdfghjk
+2025-06-11 08:38:39,275 [INFO] User input received: sdfghjk
+2025-06-11 08:38:39,275 [INFO] User input received: sdfghjk
+2025-06-11 08:38:39,300 [INFO] Validating field: Current Location
+2025-06-11 08:38:39,300 [INFO] Validating field: Current Location
+2025-06-11 08:38:39,300 [INFO] Validating field: Current Location
+2025-06-11 08:38:39,300 [INFO] Validating field: Current Location
+2025-06-11 08:38:39,300 [INFO] Validating field: Current Location
+2025-06-11 08:38:39,300 [INFO] Validating field: Current Location
+2025-06-11 08:38:39,300 [INFO] Validating field: Current Location
+2025-06-11 08:38:39,310 [INFO] Validated field 'Current Location'. Updated profile.
+2025-06-11 08:38:39,310 [INFO] Validated field 'Current Location'. Updated profile.
+2025-06-11 08:38:39,310 [INFO] Validated field 'Current Location'. Updated profile.
+2025-06-11 08:38:39,310 [INFO] Validated field 'Current Location'. Updated profile.
+2025-06-11 08:38:39,310 [INFO] Validated field 'Current Location'. Updated profile.
+2025-06-11 08:38:39,310 [INFO] Validated field 'Current Location'. Updated profile.
+2025-06-11 08:38:39,310 [INFO] Validated field 'Current Location'. Updated profile.
+2025-06-11 08:38:39,328 [INFO] Prompting next field: Tech Stack
+2025-06-11 08:38:39,328 [INFO] Prompting next field: Tech Stack
+2025-06-11 08:38:39,328 [INFO] Prompting next field: Tech Stack
+2025-06-11 08:38:39,328 [INFO] Prompting next field: Tech Stack
+2025-06-11 08:38:39,328 [INFO] Prompting next field: Tech Stack
+2025-06-11 08:38:39,328 [INFO] Prompting next field: Tech Stack
+2025-06-11 08:38:39,328 [INFO] Prompting next field: Tech Stack
+2025-06-11 08:38:42,711 [INFO] Custom CSS injected.
+2025-06-11 08:38:42,711 [INFO] Custom CSS injected.
+2025-06-11 08:38:42,711 [INFO] Custom CSS injected.
+2025-06-11 08:38:42,711 [INFO] Custom CSS injected.
+2025-06-11 08:38:42,711 [INFO] Custom CSS injected.
+2025-06-11 08:38:42,711 [INFO] Custom CSS injected.
+2025-06-11 08:38:42,711 [INFO] Custom CSS injected.
+2025-06-11 08:38:42,711 [INFO] Custom CSS injected.
+2025-06-11 08:38:42,776 [INFO] Rendered chat history with 13 messages.
+2025-06-11 08:38:42,776 [INFO] Rendered chat history with 13 messages.
+2025-06-11 08:38:42,776 [INFO] Rendered chat history with 13 messages.
+2025-06-11 08:38:42,776 [INFO] Rendered chat history with 13 messages.
+2025-06-11 08:38:42,776 [INFO] Rendered chat history with 13 messages.
+2025-06-11 08:38:42,776 [INFO] Rendered chat history with 13 messages.
+2025-06-11 08:38:42,776 [INFO] Rendered chat history with 13 messages.
+2025-06-11 08:38:42,776 [INFO] Rendered chat history with 13 messages.
+2025-06-11 08:38:42,799 [INFO] User input received: java , python
+2025-06-11 08:38:42,799 [INFO] User input received: java , python
+2025-06-11 08:38:42,799 [INFO] User input received: java , python
+2025-06-11 08:38:42,799 [INFO] User input received: java , python
+2025-06-11 08:38:42,799 [INFO] User input received: java , python
+2025-06-11 08:38:42,799 [INFO] User input received: java , python
+2025-06-11 08:38:42,799 [INFO] User input received: java , python
+2025-06-11 08:38:42,799 [INFO] User input received: java , python
+2025-06-11 08:38:42,823 [INFO] Validating field: Tech Stack
+2025-06-11 08:38:42,823 [INFO] Validating field: Tech Stack
+2025-06-11 08:38:42,823 [INFO] Validating field: Tech Stack
+2025-06-11 08:38:42,823 [INFO] Validating field: Tech Stack
+2025-06-11 08:38:42,823 [INFO] Validating field: Tech Stack
+2025-06-11 08:38:42,823 [INFO] Validating field: Tech Stack
+2025-06-11 08:38:42,823 [INFO] Validating field: Tech Stack
+2025-06-11 08:38:42,823 [INFO] Validating field: Tech Stack
+2025-06-11 08:38:42,835 [INFO] Validated field 'Tech Stack'. Updated profile.
+2025-06-11 08:38:42,835 [INFO] Validated field 'Tech Stack'. Updated profile.
+2025-06-11 08:38:42,835 [INFO] Validated field 'Tech Stack'. Updated profile.
+2025-06-11 08:38:42,835 [INFO] Validated field 'Tech Stack'. Updated profile.
+2025-06-11 08:38:42,835 [INFO] Validated field 'Tech Stack'. Updated profile.
+2025-06-11 08:38:42,835 [INFO] Validated field 'Tech Stack'. Updated profile.
+2025-06-11 08:38:42,835 [INFO] Validated field 'Tech Stack'. Updated profile.
+2025-06-11 08:38:42,835 [INFO] Validated field 'Tech Stack'. Updated profile.
+2025-06-11 08:38:42,855 [INFO] Profile completed. Great! Preparing your interview based on your selected tech stack...
+2025-06-11 08:38:42,855 [INFO] Profile completed. Great! Preparing your interview based on your selected tech stack...
+2025-06-11 08:38:42,855 [INFO] Profile completed. Great! Preparing your interview based on your selected tech stack...
+2025-06-11 08:38:42,855 [INFO] Profile completed. Great! Preparing your interview based on your selected tech stack...
+2025-06-11 08:38:42,855 [INFO] Profile completed. Great! Preparing your interview based on your selected tech stack...
+2025-06-11 08:38:42,855 [INFO] Profile completed. Great! Preparing your interview based on your selected tech stack...
+2025-06-11 08:38:42,855 [INFO] Profile completed. Great! Preparing your interview based on your selected tech stack...
+2025-06-11 08:38:42,855 [INFO] Profile completed. Great! Preparing your interview based on your selected tech stack...
+2025-06-11 08:38:42,872 [INFO] Initializing interview for topic: java
+2025-06-11 08:38:42,872 [INFO] Initializing interview for topic: java
+2025-06-11 08:38:42,872 [INFO] Initializing interview for topic: java
+2025-06-11 08:38:42,872 [INFO] Initializing interview for topic: java
+2025-06-11 08:38:42,872 [INFO] Initializing interview for topic: java
+2025-06-11 08:38:42,872 [INFO] Initializing interview for topic: java
+2025-06-11 08:38:42,872 [INFO] Initializing interview for topic: java
+2025-06-11 08:38:42,872 [INFO] Initializing interview for topic: java
+2025-06-11 08:38:44,036 [INFO] LLM response received for initial interview question. Response: 
+
+Now, tell me a bit about yourself. What are you most passionate about in your work? 
+
+
+
+
+2025-06-11 08:38:44,036 [INFO] LLM response received for initial interview question. Response: 
+
+Now, tell me a bit about yourself. What are you most passionate about in your work? 
+
+
+
+
+2025-06-11 08:38:44,036 [INFO] LLM response received for initial interview question. Response: 
+
+Now, tell me a bit about yourself. What are you most passionate about in your work? 
+
+
+
+
+2025-06-11 08:38:44,036 [INFO] LLM response received for initial interview question. Response: 
+
+Now, tell me a bit about yourself. What are you most passionate about in your work? 
+
+
+
+
+2025-06-11 08:38:44,036 [INFO] LLM response received for initial interview question. Response: 
+
+Now, tell me a bit about yourself. What are you most passionate about in your work? 
+
+
+
+
+2025-06-11 08:38:44,036 [INFO] LLM response received for initial interview question. Response: 
+
+Now, tell me a bit about yourself. What are you most passionate about in your work? 
+
+
+
+
+2025-06-11 08:38:44,036 [INFO] LLM response received for initial interview question. Response: 
+
+Now, tell me a bit about yourself. What are you most passionate about in your work? 
+
+
+
+
+2025-06-11 08:38:44,036 [INFO] LLM response received for initial interview question. Response: 
+
+Now, tell me a bit about yourself. What are you most passionate about in your work? 
+
+
+
+
+2025-06-11 08:39:03,367 [INFO] Custom CSS injected.
+2025-06-11 08:39:03,367 [INFO] Custom CSS injected.
+2025-06-11 08:39:03,367 [INFO] Custom CSS injected.
+2025-06-11 08:39:03,367 [INFO] Custom CSS injected.
+2025-06-11 08:39:03,367 [INFO] Custom CSS injected.
+2025-06-11 08:39:03,367 [INFO] Custom CSS injected.
+2025-06-11 08:39:03,367 [INFO] Custom CSS injected.
+2025-06-11 08:39:03,367 [INFO] Custom CSS injected.
+2025-06-11 08:39:03,367 [INFO] Custom CSS injected.
+2025-06-11 08:39:03,453 [INFO] Rendered chat history with 16 messages.
+2025-06-11 08:39:03,453 [INFO] Rendered chat history with 16 messages.
+2025-06-11 08:39:03,453 [INFO] Rendered chat history with 16 messages.
+2025-06-11 08:39:03,453 [INFO] Rendered chat history with 16 messages.
+2025-06-11 08:39:03,453 [INFO] Rendered chat history with 16 messages.
+2025-06-11 08:39:03,453 [INFO] Rendered chat history with 16 messages.
+2025-06-11 08:39:03,453 [INFO] Rendered chat history with 16 messages.
+2025-06-11 08:39:03,453 [INFO] Rendered chat history with 16 messages.
+2025-06-11 08:39:03,453 [INFO] Rendered chat history with 16 messages.
+2025-06-11 08:39:03,489 [INFO] User input received: I’m passionate about **building user-focused, reliable applications** that solve real problems.  
+I love working on **real-time systems, Generative AI, and scalable backend architectures.**  
+I enjoy continuously learning new technologies and improving my problem-solving skills.  
+Collaboration and creating impact through meaningful projects really drive me.  
+I’m especially excited about how AI can enhance user experiences and productivity.
+2025-06-11 08:39:03,489 [INFO] User input received: I’m passionate about **building user-focused, reliable applications** that solve real problems.  
+I love working on **real-time systems, Generative AI, and scalable backend architectures.**  
+I enjoy continuously learning new technologies and improving my problem-solving skills.  
+Collaboration and creating impact through meaningful projects really drive me.  
+I’m especially excited about how AI can enhance user experiences and productivity.
+2025-06-11 08:39:03,489 [INFO] User input received: I’m passionate about **building user-focused, reliable applications** that solve real problems.  
+I love working on **real-time systems, Generative AI, and scalable backend architectures.**  
+I enjoy continuously learning new technologies and improving my problem-solving skills.  
+Collaboration and creating impact through meaningful projects really drive me.  
+I’m especially excited about how AI can enhance user experiences and productivity.
+2025-06-11 08:39:03,489 [INFO] User input received: I’m passionate about **building user-focused, reliable applications** that solve real problems.  
+I love working on **real-time systems, Generative AI, and scalable backend architectures.**  
+I enjoy continuously learning new technologies and improving my problem-solving skills.  
+Collaboration and creating impact through meaningful projects really drive me.  
+I’m especially excited about how AI can enhance user experiences and productivity.
+2025-06-11 08:39:03,489 [INFO] User input received: I’m passionate about **building user-focused, reliable applications** that solve real problems.  
+I love working on **real-time systems, Generative AI, and scalable backend architectures.**  
+I enjoy continuously learning new technologies and improving my problem-solving skills.  
+Collaboration and creating impact through meaningful projects really drive me.  
+I’m especially excited about how AI can enhance user experiences and productivity.
+2025-06-11 08:39:03,489 [INFO] User input received: I’m passionate about **building user-focused, reliable applications** that solve real problems.  
+I love working on **real-time systems, Generative AI, and scalable backend architectures.**  
+I enjoy continuously learning new technologies and improving my problem-solving skills.  
+Collaboration and creating impact through meaningful projects really drive me.  
+I’m especially excited about how AI can enhance user experiences and productivity.
+2025-06-11 08:39:03,489 [INFO] User input received: I’m passionate about **building user-focused, reliable applications** that solve real problems.  
+I love working on **real-time systems, Generative AI, and scalable backend architectures.**  
+I enjoy continuously learning new technologies and improving my problem-solving skills.  
+Collaboration and creating impact through meaningful projects really drive me.  
+I’m especially excited about how AI can enhance user experiences and productivity.
+2025-06-11 08:39:03,489 [INFO] User input received: I’m passionate about **building user-focused, reliable applications** that solve real problems.  
+I love working on **real-time systems, Generative AI, and scalable backend architectures.**  
+I enjoy continuously learning new technologies and improving my problem-solving skills.  
+Collaboration and creating impact through meaningful projects really drive me.  
+I’m especially excited about how AI can enhance user experiences and productivity.
+2025-06-11 08:39:03,489 [INFO] User input received: I’m passionate about **building user-focused, reliable applications** that solve real problems.  
+I love working on **real-time systems, Generative AI, and scalable backend architectures.**  
+I enjoy continuously learning new technologies and improving my problem-solving skills.  
+Collaboration and creating impact through meaningful projects really drive me.  
+I’m especially excited about how AI can enhance user experiences and productivity.
+2025-06-11 08:39:03,513 [INFO] In normal interview phase. Current topic: java | Last question: 
+
+Now, tell me a bit about yourself. What are you most passionate about in your work? 
+
+
+
+ | User input: I’m passionate about **building user-focused, reliable applications** that solve real problems.  
+I love working on **real-time systems, Generative AI, and scalable backend architectures.**  
+I enjoy continuously learning new technologies and improving my problem-solving skills.  
+Collaboration and creating impact through meaningful projects really drive me.  
+I’m especially excited about how AI can enhance user experiences and productivity.
+2025-06-11 08:39:03,513 [INFO] In normal interview phase. Current topic: java | Last question: 
+
+Now, tell me a bit about yourself. What are you most passionate about in your work? 
+
+
+
+ | User input: I’m passionate about **building user-focused, reliable applications** that solve real problems.  
+I love working on **real-time systems, Generative AI, and scalable backend architectures.**  
+I enjoy continuously learning new technologies and improving my problem-solving skills.  
+Collaboration and creating impact through meaningful projects really drive me.  
+I’m especially excited about how AI can enhance user experiences and productivity.
+2025-06-11 08:39:03,513 [INFO] In normal interview phase. Current topic: java | Last question: 
+
+Now, tell me a bit about yourself. What are you most passionate about in your work? 
+
+
+
+ | User input: I’m passionate about **building user-focused, reliable applications** that solve real problems.  
+I love working on **real-time systems, Generative AI, and scalable backend architectures.**  
+I enjoy continuously learning new technologies and improving my problem-solving skills.  
+Collaboration and creating impact through meaningful projects really drive me.  
+I’m especially excited about how AI can enhance user experiences and productivity.
+2025-06-11 08:39:03,513 [INFO] In normal interview phase. Current topic: java | Last question: 
+
+Now, tell me a bit about yourself. What are you most passionate about in your work? 
+
+
+
+ | User input: I’m passionate about **building user-focused, reliable applications** that solve real problems.  
+I love working on **real-time systems, Generative AI, and scalable backend architectures.**  
+I enjoy continuously learning new technologies and improving my problem-solving skills.  
+Collaboration and creating impact through meaningful projects really drive me.  
+I’m especially excited about how AI can enhance user experiences and productivity.
+2025-06-11 08:39:03,513 [INFO] In normal interview phase. Current topic: java | Last question: 
+
+Now, tell me a bit about yourself. What are you most passionate about in your work? 
+
+
+
+ | User input: I’m passionate about **building user-focused, reliable applications** that solve real problems.  
+I love working on **real-time systems, Generative AI, and scalable backend architectures.**  
+I enjoy continuously learning new technologies and improving my problem-solving skills.  
+Collaboration and creating impact through meaningful projects really drive me.  
+I’m especially excited about how AI can enhance user experiences and productivity.
+2025-06-11 08:39:03,513 [INFO] In normal interview phase. Current topic: java | Last question: 
+
+Now, tell me a bit about yourself. What are you most passionate about in your work? 
+
+
+
+ | User input: I’m passionate about **building user-focused, reliable applications** that solve real problems.  
+I love working on **real-time systems, Generative AI, and scalable backend architectures.**  
+I enjoy continuously learning new technologies and improving my problem-solving skills.  
+Collaboration and creating impact through meaningful projects really drive me.  
+I’m especially excited about how AI can enhance user experiences and productivity.
+2025-06-11 08:39:03,513 [INFO] In normal interview phase. Current topic: java | Last question: 
+
+Now, tell me a bit about yourself. What are you most passionate about in your work? 
+
+
+
+ | User input: I’m passionate about **building user-focused, reliable applications** that solve real problems.  
+I love working on **real-time systems, Generative AI, and scalable backend architectures.**  
+I enjoy continuously learning new technologies and improving my problem-solving skills.  
+Collaboration and creating impact through meaningful projects really drive me.  
+I’m especially excited about how AI can enhance user experiences and productivity.
+2025-06-11 08:39:03,513 [INFO] In normal interview phase. Current topic: java | Last question: 
+
+Now, tell me a bit about yourself. What are you most passionate about in your work? 
+
+
+
+ | User input: I’m passionate about **building user-focused, reliable applications** that solve real problems.  
+I love working on **real-time systems, Generative AI, and scalable backend architectures.**  
+I enjoy continuously learning new technologies and improving my problem-solving skills.  
+Collaboration and creating impact through meaningful projects really drive me.  
+I’m especially excited about how AI can enhance user experiences and productivity.
+2025-06-11 08:39:03,513 [INFO] In normal interview phase. Current topic: java | Last question: 
+
+Now, tell me a bit about yourself. What are you most passionate about in your work? 
+
+
+
+ | User input: I’m passionate about **building user-focused, reliable applications** that solve real problems.  
+I love working on **real-time systems, Generative AI, and scalable backend architectures.**  
+I enjoy continuously learning new technologies and improving my problem-solving skills.  
+Collaboration and creating impact through meaningful projects really drive me.  
+I’m especially excited about how AI can enhance user experiences and productivity.
+2025-06-11 08:39:04,464 [INFO] LLM response in normal phase: That's fantastic! It sounds like you have a great blend of technical skills and a passion for making a real difference.  
+
+Can you tell me about a project where you had to balance the need for real-time performance with scalability? What challenges did you face, and how did you overcome them?
+
+2025-06-11 08:39:04,464 [INFO] LLM response in normal phase: That's fantastic! It sounds like you have a great blend of technical skills and a passion for making a real difference.  
+
+Can you tell me about a project where you had to balance the need for real-time performance with scalability? What challenges did you face, and how did you overcome them?
+
+2025-06-11 08:39:04,464 [INFO] LLM response in normal phase: That's fantastic! It sounds like you have a great blend of technical skills and a passion for making a real difference.  
+
+Can you tell me about a project where you had to balance the need for real-time performance with scalability? What challenges did you face, and how did you overcome them?
+
+2025-06-11 08:39:04,464 [INFO] LLM response in normal phase: That's fantastic! It sounds like you have a great blend of technical skills and a passion for making a real difference.  
+
+Can you tell me about a project where you had to balance the need for real-time performance with scalability? What challenges did you face, and how did you overcome them?
+
+2025-06-11 08:39:04,464 [INFO] LLM response in normal phase: That's fantastic! It sounds like you have a great blend of technical skills and a passion for making a real difference.  
+
+Can you tell me about a project where you had to balance the need for real-time performance with scalability? What challenges did you face, and how did you overcome them?
+
+2025-06-11 08:39:04,464 [INFO] LLM response in normal phase: That's fantastic! It sounds like you have a great blend of technical skills and a passion for making a real difference.  
+
+Can you tell me about a project where you had to balance the need for real-time performance with scalability? What challenges did you face, and how did you overcome them?
+
+2025-06-11 08:39:04,464 [INFO] LLM response in normal phase: That's fantastic! It sounds like you have a great blend of technical skills and a passion for making a real difference.  
+
+Can you tell me about a project where you had to balance the need for real-time performance with scalability? What challenges did you face, and how did you overcome them?
+
+2025-06-11 08:39:04,464 [INFO] LLM response in normal phase: That's fantastic! It sounds like you have a great blend of technical skills and a passion for making a real difference.  
+
+Can you tell me about a project where you had to balance the need for real-time performance with scalability? What challenges did you face, and how did you overcome them?
+
+2025-06-11 08:39:04,464 [INFO] LLM response in normal phase: That's fantastic! It sounds like you have a great blend of technical skills and a passion for making a real difference.  
+
+Can you tell me about a project where you had to balance the need for real-time performance with scalability? What challenges did you face, and how did you overcome them?
+
+2025-06-11 08:39:09,470 [INFO] Custom CSS injected.
+2025-06-11 08:39:09,470 [INFO] Custom CSS injected.
+2025-06-11 08:39:09,470 [INFO] Custom CSS injected.
+2025-06-11 08:39:09,470 [INFO] Custom CSS injected.
+2025-06-11 08:39:09,470 [INFO] Custom CSS injected.
+2025-06-11 08:39:09,470 [INFO] Custom CSS injected.
+2025-06-11 08:39:09,470 [INFO] Custom CSS injected.
+2025-06-11 08:39:09,470 [INFO] Custom CSS injected.
+2025-06-11 08:39:09,470 [INFO] Custom CSS injected.
+2025-06-11 08:39:09,470 [INFO] Custom CSS injected.
+2025-06-11 08:39:09,553 [INFO] Rendered chat history with 18 messages.
+2025-06-11 08:39:09,553 [INFO] Rendered chat history with 18 messages.
+2025-06-11 08:39:09,553 [INFO] Rendered chat history with 18 messages.
+2025-06-11 08:39:09,553 [INFO] Rendered chat history with 18 messages.
+2025-06-11 08:39:09,553 [INFO] Rendered chat history with 18 messages.
+2025-06-11 08:39:09,553 [INFO] Rendered chat history with 18 messages.
+2025-06-11 08:39:09,553 [INFO] Rendered chat history with 18 messages.
+2025-06-11 08:39:09,553 [INFO] Rendered chat history with 18 messages.
+2025-06-11 08:39:09,553 [INFO] Rendered chat history with 18 messages.
+2025-06-11 08:39:09,553 [INFO] Rendered chat history with 18 messages.
+2025-06-11 08:39:09,585 [INFO] User input received: quit
+2025-06-11 08:39:09,585 [INFO] User input received: quit
+2025-06-11 08:39:09,585 [INFO] User input received: quit
+2025-06-11 08:39:09,585 [INFO] User input received: quit
+2025-06-11 08:39:09,585 [INFO] User input received: quit
+2025-06-11 08:39:09,585 [INFO] User input received: quit
+2025-06-11 08:39:09,585 [INFO] User input received: quit
+2025-06-11 08:39:09,585 [INFO] User input received: quit
+2025-06-11 08:39:09,585 [INFO] User input received: quit
+2025-06-11 08:39:09,585 [INFO] User input received: quit
+2025-06-11 08:39:09,607 [INFO] User requested to end interview. Triggering exit prompt.
+2025-06-11 08:39:09,607 [INFO] User requested to end interview. Triggering exit prompt.
+2025-06-11 08:39:09,607 [INFO] User requested to end interview. Triggering exit prompt.
+2025-06-11 08:39:09,607 [INFO] User requested to end interview. Triggering exit prompt.
+2025-06-11 08:39:09,607 [INFO] User requested to end interview. Triggering exit prompt.
+2025-06-11 08:39:09,607 [INFO] User requested to end interview. Triggering exit prompt.
+2025-06-11 08:39:09,607 [INFO] User requested to end interview. Triggering exit prompt.
+2025-06-11 08:39:09,607 [INFO] User requested to end interview. Triggering exit prompt.
+2025-06-11 08:39:09,607 [INFO] User requested to end interview. Triggering exit prompt.
+2025-06-11 08:39:09,607 [INFO] User requested to end interview. Triggering exit prompt.
+2025-06-11 08:39:10,525 [INFO] LLM termination response: Okay, no problem!  
+
+It was great chatting with you, Hemanth.  
+
+Have a great day!
+
+2025-06-11 08:39:10,525 [INFO] LLM termination response: Okay, no problem!  
+
+It was great chatting with you, Hemanth.  
+
+Have a great day!
+
+2025-06-11 08:39:10,525 [INFO] LLM termination response: Okay, no problem!  
+
+It was great chatting with you, Hemanth.  
+
+Have a great day!
+
+2025-06-11 08:39:10,525 [INFO] LLM termination response: Okay, no problem!  
+
+It was great chatting with you, Hemanth.  
+
+Have a great day!
+
+2025-06-11 08:39:10,525 [INFO] LLM termination response: Okay, no problem!  
+
+It was great chatting with you, Hemanth.  
+
+Have a great day!
+
+2025-06-11 08:39:10,525 [INFO] LLM termination response: Okay, no problem!  
+
+It was great chatting with you, Hemanth.  
+
+Have a great day!
+
+2025-06-11 08:39:10,525 [INFO] LLM termination response: Okay, no problem!  
+
+It was great chatting with you, Hemanth.  
+
+Have a great day!
+
+2025-06-11 08:39:10,525 [INFO] LLM termination response: Okay, no problem!  
+
+It was great chatting with you, Hemanth.  
+
+Have a great day!
+
+2025-06-11 08:39:10,525 [INFO] LLM termination response: Okay, no problem!  
+
+It was great chatting with you, Hemanth.  
+
+Have a great day!
+
+2025-06-11 08:39:10,525 [INFO] LLM termination response: Okay, no problem!  
+
+It was great chatting with you, Hemanth.  
+
+Have a great day!
+
