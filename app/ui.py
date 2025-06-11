@@ -25,6 +25,12 @@ logger.addHandler(file_handler)
 st.set_page_config(page_title="TalentScout Hiring Bot", page_icon="🤖")
 st.title("🧠 TalentScout Hiring Bot")
 
+# Force a state reset on hard refresh
+if "is_initialized" not in st.session_state:
+    # Clear any keys that might persist from before
+    for key in list(st.session_state.keys()):
+        del st.session_state[key]
+    st.session_state["is_initialized"] = True
 
 #  Inject custom CSS
 st.markdown(
