@@ -22,8 +22,8 @@ logger.addHandler(console_handler)
 logger.addHandler(file_handler)
 
 # --- Streamlit UI ---
-st.set_page_config(page_title="Dynamic Interview Bot", page_icon="🤖")
-st.title("🧠 Dynamic Interview Coach")
+st.set_page_config(page_title="TalentScout Hiring Bot", page_icon="🤖")
+st.title("🧠 TalentScout Hiring Bot")
 
 
 #  Inject custom CSS
