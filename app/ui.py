@@ -97,11 +97,28 @@ logger.info("Rendered chat history with %d messages.", len(st.session_state.mess
 config = {"configurable": {"session_id": st.session_state.session_id}}
 
 if user_input := st.chat_input("Your answer..."):
+
     st.session_state.messages.append({"role": "user", "content": user_input})
     # st.chat_message("user").markdown(user_input)
     st.markdown(f'<div class="user-wrapper"><div class="user-message">{user_input}</div></div>', unsafe_allow_html=True)
     logger.info("User input received: %s", user_input)
 
+        # Check for quit keywords
+    if user_input.lower().strip() in ("exit", "quit"):
+        exit_prompt = (
+            "The user has requested to end the interview.\n\n"
+            "You are required to strictly follow these instructions without any deviation or additional commentary:\n\n"
+            "1. Conclude the interview immediately.\n"
+            "2. Provide a concise, professional evaluation summary of the interview so far.\n"
+            "3. Thank the candidate for their time and bid them goodbye.\n\n"
+            "IMPORTANT: Respond ONLY with the evaluation summary and goodbye message. DO NOT include any extra context, apologies, or remarks."
+        )
+        logger.info("User requested to end interview. Triggering exit prompt.")
+        resp = chat.invoke({"prompt": exit_prompt, "messages": st.session_state.messages}, config=config)
+        st.session_state.messages.append({"role": "assistant", "content": resp.content})
+        st.markdown(f'<div class="bot-wrapper"><div class="bot-message">{resp.content}</div></div>', unsafe_allow_html=True)
+        logger.info("LLM termination response: %s", resp.content)
+        st.stop()  # End the app execution
 
     if st.session_state.collecting:
         field = PROFILE_FIELDS[st.session_state.field_idx]
