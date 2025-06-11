@@ -81,7 +81,6 @@ Desktop.ini
 *~
 
 # Logs and temporary files
-*.log
 *.tmp
 *.swp
 *.bak
